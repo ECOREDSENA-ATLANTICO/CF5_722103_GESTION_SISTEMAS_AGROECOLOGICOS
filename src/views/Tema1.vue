@@ -5,7 +5,108 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Titulo de primer nivel
+      h1 Botánica
+
+    .bg_1.pt-2.mb-4
+      .row.justify-content-end
+        .col-lg-6.align-self-center.mb-4.mb-lg-0
+          p.m-0.mt-4.mx-3.mx-lg-0 Proviene de la palabra griega “planta o vegetal”, hace parte de la biología y se encarga de estudiar de manera general las plantas, además de investigar otros organismos fotosintéticos (algas y bacterias), permitiendo de esta forma entender la evolución de los vegetales. Para su estudio resulta importante analizar la morfología, la sistemática y la fisiología vegetal. 
+        .col-lg-5.mb-0.mb-lg-4(data-aos="fade-left")
+          figure
+            img.img-t.mx-auto(src='@/assets/curso/tema1/img02.png', alt='') 
+
+    Separador
+
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
+        h2 1.1. Conceptos básicos
+
+    p Para  el estudio de la botánica es indispensable tener claridad de los siguientes conceptos y en lo indicado en la figura 1.
+
+    .bg_2.p-4.py-5
+      .row.justify-content-center.mb-5
+        .col-lg-8
+          .bg_3.p-4
+            ImagenInfografica.color-secundario.mb-5
+              template(v-slot:imagen)
+                figure
+                  img(src='@/assets/curso/tema1/img03.png', alt='Texto que describa la imagen')
+
+              .tarjeta.bg_4.p-4(x="4.6%" y="53%" numero="1")
+                .row                    
+                  .col-lg-12
+                    p.m-0.text-bold Clasificación de los seres vivos
+                    p.m-0 Mediante la clasificación biológica se pueden agrupar y categorizar los organismos y sus taxones, permitiendo establecer un orden entre los diversos organismos (móneras, protistas, hongos, plantas y animales).
+
+              .tarjeta.bg_5.p-4(x="72.5%" y="30.7%" numero="2")
+                .row                    
+                  .col-lg-12
+                    p.m-0.text-bold Categorización del reino vegetal
+                    p.m-0 Dentro del reino vegetal se encuentran organismos como: <b>musgos (briofitos), helechos (pteridófitos o criptógamas), plantas con flor (espermatófitos / fanerógamas).</b>
+
+              .tarjeta.bg_6.p-4(x="10%" y="29.8%" numero="3")
+                .row                    
+                  .col-lg-12
+                    p.m-0.text-bold Caracterización bioclimática
+                    p.m-0 La distribución de las plantas en los ecosistemas dependen de la temperatura (termoclimas) y las precipitaciones (ombroclimas).
+
+              .tarjeta.bg_7.p-4(x="63.7%" y="71.5%" numero="4")
+                .row                    
+                  .col-lg-12
+                    p.m-0.text-bold Corología
+                    p.m-0 Ciencia encargada del estudio de las áreas de distribución de los seres vivos, siendo el conjunto de localidades donde crece un ser vivo (reino, región, superprovincia, provincia, subprovincia, sector, subsector).
+              
+              .tarjeta.bg_8.p-4(x="52.7%" y="23.3%" numero="5")
+                .row                    
+                  .col-lg-12
+                    p.m-0.text-bold Tipos biológicos
+                    p.m-0  En el proceso de adaptación y convergencia a diversos ambientes y climas las plantas desarrollan caracteres externos a nivel estructural y morfológico (biotipos), entre los que se encuentran fanerófitos, caméfitos, hemicriptófitos, criptófitos.
+
+              .tarjeta.bg_9.p-4(x="27.3%" y="23.3%" numero="6")
+                .row                    
+                  .col-lg-12
+                    p.m-0.text-bold Regiones Florísticas                        
+
+              .tarjeta.bg_10.p-4(x="25.4%" y="51%" numero="7")
+                .row                    
+                  .col-lg-12
+                    p.m-0.text-bold Reinos Florísticos                        
+
+      .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
+        h5 Figura 1.
+        span <em>Técnicas de investigación</em>
+      
+      .bg_3.px-4
+        .row
+          .col-lg-6
+            .row.justify-content-center
+              .col-lg-4.col-md-4.col-xl-5.col-xxl-4.bg_11.py-2
+                h3.text-center.m-0 Época favorable
+            figure
+              img(src='@/assets/curso/tema1/img04.svg', alt='')
+          .col-lg-6
+            .row.justify-content-center.mb-4
+              .col-lg-5.col-md-5.bg_11.py-2
+                h3.text-center.m-0 Época desfavorable
+            figure
+              img(src='@/assets/curso/tema1/img05.svg', alt='')
+                    
+    Separador
+
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
+        h2 1.2. Importancia 
+
+    .row.align-items-center.mb-4.mb-lg-5
+      .col-lg-2.mb-4.mb-lg-0
+        img.img-t.m-auto(src='@/assets/curso/tema1/img06.svg', alt='')
+      .col-lg-10
+        p La botánica cumple funciones primordiales que contribuyen al desarrollo ambiental, social y económico, pues su estudio permite comprender la evolución de la vida en la Tierra.
+        p Vea a continuación los diversos factores facilitaron su desarrollo y progreso. 
+
+    figure
+    .video
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/BPZm9jZ-rAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    
+
       
 </template>
 
