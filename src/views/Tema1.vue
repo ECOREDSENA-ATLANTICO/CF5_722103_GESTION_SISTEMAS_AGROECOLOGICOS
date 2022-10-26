@@ -25,48 +25,47 @@
     .bg_2.p-4.py-5
       .row.justify-content-center.mb-5
         .col-lg-8
-          .bg_3.p-4
             ImagenInfografica.color-secundario.mb-5
               template(v-slot:imagen)
                 figure
                   img(src='@/assets/curso/tema1/img03.png', alt='Texto que describa la imagen')
 
-              .tarjeta.bg_4.p-4(x="4.6%" y="53%" numero="1")
+              .tarjeta.bg_4.p-4(x="1.6%" y="16.2%" numero="1")
                 .row                    
                   .col-lg-12
                     p.m-0.text-bold Clasificación de los seres vivos
                     p.m-0 Mediante la clasificación biológica se pueden agrupar y categorizar los organismos y sus taxones, permitiendo establecer un orden entre los diversos organismos (móneras, protistas, hongos, plantas y animales).
 
-              .tarjeta.bg_5.p-4(x="72.5%" y="30.7%" numero="2")
+              .tarjeta.bg_5.p-4(x="35.6%" y="12.6%" numero="2")
                 .row                    
                   .col-lg-12
                     p.m-0.text-bold Categorización del reino vegetal
                     p.m-0 Dentro del reino vegetal se encuentran organismos como: <b>musgos (briofitos), helechos (pteridófitos o criptógamas), plantas con flor (espermatófitos / fanerógamas).</b>
 
-              .tarjeta.bg_6.p-4(x="10%" y="29.8%" numero="3")
+              .tarjeta.bg_6.p-4(x="66.2%" y="9.6%" numero="3")
                 .row                    
                   .col-lg-12
                     p.m-0.text-bold Caracterización bioclimática
                     p.m-0 La distribución de las plantas en los ecosistemas dependen de la temperatura (termoclimas) y las precipitaciones (ombroclimas).
 
-              .tarjeta.bg_7.p-4(x="63.7%" y="71.5%" numero="4")
+              .tarjeta.bg_7.p-4(x="81.5%" y="3.5%" numero="4")
                 .row                    
                   .col-lg-12
-                    p.m-0.text-bold Corología
+                    p.m-0.text-bold Cronología
                     p.m-0 Ciencia encargada del estudio de las áreas de distribución de los seres vivos, siendo el conjunto de localidades donde crece un ser vivo (reino, región, superprovincia, provincia, subprovincia, sector, subsector).
               
-              .tarjeta.bg_8.p-4(x="52.7%" y="23.3%" numero="5")
+              .tarjeta.bg_8.p-4(x="12.9%" y="70.3%" numero="5")
                 .row                    
                   .col-lg-12
                     p.m-0.text-bold Tipos biológicos
                     p.m-0  En el proceso de adaptación y convergencia a diversos ambientes y climas las plantas desarrollan caracteres externos a nivel estructural y morfológico (biotipos), entre los que se encuentran fanerófitos, caméfitos, hemicriptófitos, criptófitos.
 
-              .tarjeta.bg_9.p-4(x="27.3%" y="23.3%" numero="6")
+              .tarjeta.bg_9.p-4(x="37.4%" y="87.2%" numero="6")
                 .row                    
                   .col-lg-12
                     p.m-0.text-bold Regiones Florísticas                        
 
-              .tarjeta.bg_10.p-4(x="25.4%" y="51%" numero="7")
+              .tarjeta.bg_10.p-4(x="81.5%" y="90.5%" numero="7")
                 .row                    
                   .col-lg-12
                     p.m-0.text-bold Reinos Florísticos                        
@@ -79,7 +78,7 @@
         .row
           .col-lg-6
             .row.justify-content-center
-              .col-lg-4.col-md-4.col-xl-5.col-xxl-4.bg_11.py-2
+              .col-lg-5.col-md-5.col-xl-6.col-xxl-5.bg_11.py-2
                 h3.text-center.m-0 Época favorable
             figure
               img(src='@/assets/curso/tema1/img04.svg', alt='')

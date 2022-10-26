@@ -38,7 +38,7 @@
           img.img-t.mx-auto(src='@/assets/curso/tema2/img03.png', alt='')
 
     Separador
-
+  
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
         h2 2.1. Subreino Thallobionta (talofitas)
 

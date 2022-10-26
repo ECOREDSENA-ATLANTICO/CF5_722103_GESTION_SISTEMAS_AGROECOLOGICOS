@@ -112,7 +112,6 @@
 
 .bg_11
   background-color: #ADCE32
-  border: 3px solid #12263F
 
 .bg_12
   background-color: #DEEBAD
@@ -354,6 +353,138 @@ table *
 
 .bg_30
   background-image: url("../assets/curso/tema3/img46.svg")
+  background-repeat: no-repeat
+  background-size: 100% 97%
+  @media (max-width: $bp-max-md) 
+    background-image: none
+    background-color: #DEEBAD 
+  @media (min-width: $bp-min-lg) and (max-width: $bp-max-xl)
+    background-size: 100% 98%
+
+.bg_color6
+  position: relative
+  .row, figure, p
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 
+    top: 0
+    left: 0
+    width: 100%
+    height: 81%
+    background-color: #DEEBAD
+    border-top-right-radius: 80px
+    @media (max-width: $bp-max-sm)
+      height: 100%
+.bg_color7
+  position: relative
+  .row, figure, p
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 
+    top: 16%
+    left: 0
+    width: 100%
+    height: 73%
+    background-color: #FFE9E1
+    border-top-right-radius: 80px
+    @media (max-width: $bp-max-sm)
+      height: 100%
+      border-top-right-radius: 0
+      top: 0
+.bg_color8
+  position: relative
+  .row, figure, p
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 
+    top: 25%
+    left: 0
+    width: 100%
+    height: 81%
+    background-color: #DEEBAD
+    border-top-right-radius: 80px
+    @media (max-width: $bp-max-sm)
+      height: 81%
+.pst
+  position: absolute
+  top: 0
+  left: 10px
+  width: 86px
+  &_1
+    position: absolute
+    bottom: 0
+    right: 10px
+    width: 86px
+  &_2
+    position: absolute
+    bottom: 8%
+    right: 10px
+    width: 86px
+  &_3
+    position: absolute
+    top: 5%
+    left: 10px
+    width: 86px
+  &_4
+    position: absolute
+    bottom: -10%
+    right: 10px
+    width: 86px
+  &_5
+    position: absolute
+    top: 12%
+    left: 10px
+    width: 86px
+.br_31
+  background-color: #FFE9E1
+  &::before
+    background-color: #FFA686
+.br_32
+  background-color: #CEE284
+  border-radius: 10px
+.br_33
+  background-color: #FFBCA4
+  border-radius: 10px
+.br_34
+  .img-infografica__item__dot
+    &::before
+      background-color: #707070 !important
+.bg_35
+  background-image: url("../assets/curso/tema5/img7.svg")
+  background-repeat: no-repeat
+  width: 400px
+  height: 301px
+  border-radius: 0px
+  margin-top: -10%
+  margin-left: 9%
+  @media (max-width: $bp-max-md)
+    margin-left: -21%  
+.bg_36
+  background-color: #DEEBAD
+  border-radius: 10px
+.bg_37
+  background-color: #FFD3C3
+  border-radius: 10px
+.bg_38
+  background-image: url("../assets/curso/tema5/img11.svg")
+  background-repeat: no-repeat
+  width: 400px
+  height: 400px
+  border-radius: 0px
+  margin-top: -10%
+  @media (max-width: $bp-max-md)
+    margin-left: -21% 
+.colr
+  color: #01F6FF
+
+.bg_31
+  background-image: url("../assets/curso/tema3/img02.svg")
   background-repeat: no-repeat
   background-size: 100% 97%
   @media (max-width: $bp-max-md) 

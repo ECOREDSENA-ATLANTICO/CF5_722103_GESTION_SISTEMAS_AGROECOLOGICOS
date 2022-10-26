@@ -536,7 +536,7 @@
           figure
             img.img-t.m-auto(src='@/assets/curso/tema3/img47.svg', alt='') 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5.mt-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Figura 22. 
@@ -546,6 +546,81 @@
         .row.justify-content-center
           .col-lg-12
             figcaption.mx-3 Nota. Tomado de Anatomía y morfología vegetal (2019).
+    
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 23. 
+          span <em>Frutos simples carnosos: hesperidios, pepónides, pomo</em>    
+        figure
+          img.img-t.m-auto(src='@/assets/curso/tema3/img48.png', alt='')
+        .row.justify-content-center
+          .col-lg-12
+            figcaption.mx-3 Nota. Tomado de Anatomía y morfología vegetal (2019). 
+    
+    p Los frutos compuestos se dividen en agregados (provienen de una sola flor con varios pistilos), por ejemplo, la fresa y múltiples (provienen de varios ovarios separados, cada uno perteneciente a una flor, por ejemplo, la piña).
+
+    separador
+
+    #t_3_4.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
+      h2 3.4. La semilla 
+    
+    .row.mb-5
+      .col-12.col-lg-4.mb-3.mb-lg-0
+        figure
+          img.img-t.m-auto(src='@/assets/curso/tema3/img49.png', alt='')
+      .col-12.col-lg-8.d-flex.align-items-center
+        div
+          p Es un óvulo fecundado y maduro que reproduce sexualmente a la planta, en ella se encuentra un embrión a partir del cual se desarrolla una planta nueva. Cuenta con embrión, tejidos de almacenamiento y cubiertas o testas.
+          p Existen varios tamaños, desde microscópicos (semilla de orquídeas) hasta de gran tamaño como el coco.
+          p La semilla tiene diferentes estructuras según sus características desde dicotiledóneas hasta monocotiledóneas. 
+          p Las semillas dicotiledóneas tienen envoltura externa que protege a la semilla (tegumento), la cual cuenta con dos capas conocidas como testa y tegmen, además cuenta con hilo, micrópilo, embrión, endospermo. Ver figura.
+
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 24. 
+          span <em>Estructura externa e interna de una semilla de frijol</em>    
+        figure
+          img.img-t.m-auto(src='@/assets/curso/tema3/img50.png', alt='')
+        .row.justify-content-center
+          .col-lg-12
+            figcaption.mx-3.mt-4 Nota. Tomado de Anatomía y morfología vegetal (2019).
+    
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 25. 
+          span <em>Semillas dicotiledóneas</em>    
+        figure
+          img.img-t.m-auto(src='@/assets/curso/tema3/img51.png', alt='')
+        .row.justify-content-center
+          .col-lg-11
+            figcaption.me-1 Nota. Tomado de Anatomía y morfología vegetal (2019).
+    
+    span.text-bold Semillas monocotiledóneas, 
+    span las cuales tienen un solo cotiledón, cuentan con endospermo, coleoptilo, coleorriza, cotiledón. Ver figura.
+
+    .row.justify-content-center.mb-5.mt-5
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 26. 
+          span <em>Estructura externa e interna del fruto-semilla del maíz</em>    
+        figure
+          img.img-t.m-auto(src='@/assets/curso/tema3/img52.png', alt='')
+        .row.justify-content-center
+          .col-lg-12
+            figcaption.mx-3 Nota. Tomado de Anatomía y morfología vegetal (2019).
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 27. 
+          span <em>Semillas monocotiledóneas</em>    
+        figure
+          img.img-t.m-auto(src='@/assets/curso/tema3/img53.png', alt='')
+        .row.justify-content-center
+          .col-lg-12
+            figcaption.mx-4 Nota. Tomado de Anatomía y morfología vegetal (2019).
 
 </template>
 
