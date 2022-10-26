@@ -230,20 +230,20 @@
           h5 Figura 11. 
           span <em>Raíces según el origen: principales, secundarias y raíces adventicias</em>    
         .row.justify-content-center.mb-5
-          .col-lg-4
+          .col-lg-4.mb-4.mb-lg-0
             figure
             img.img-t.m-auto(src='@/assets/curso/tema3/img16.png', alt='')
-            .bg_color1.p-3
+            .bg_color3.p-3
               p.text-center.text-bold Raiz principal 
-          .col-lg-4
+          .col-lg-4.mb-4.mb-lg-0
             figure
             img.img-t.m-auto(src='@/assets/curso/tema3/img17.png', alt='')
-            .bg_color1.p-3
+            .bg_color3.p-3
               p.text-center.text-bold Raiz secundaria 
           .col-lg-4
             figure
             img.img-t.m-auto(src='@/assets/curso/tema3/img18.png', alt='')
-            .bg_color1.p-3
+            .bg_color3.p-3
               p.text-center.text-bold Raiz adventicia 
 
     .row.justify-content-center.mb-4
@@ -269,7 +269,7 @@
             figcaption Nota. Tomado de Anatomía y morfología vegetal (2019).
 
     .row.justify-content-center.mb-4
-      .col-lg-12
+      .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Figura 14. 
           span <em>Raíces modificadas</em>    
@@ -279,9 +279,9 @@
           img.img-t.m-auto(src='@/assets/curso/tema3/img22.png', alt='')
         .row.justify-content-center.mt-4
           .col-lg-12
-            figcaption Nota. Tomado de Anatomía y morfología vegetal (2019).
+            figcaption.mx-2 Nota. Tomado de Anatomía y morfología vegetal (2019).
 
-    .bg_16.p-5
+    .bg_16.p-5.mb-5.mb-lg-0
       .row.justify-content-eleven.align-items-center
         .col-lg-4.mb-4(data-aos="fade-left")
           figure
@@ -291,7 +291,7 @@
 
     p.mb-5 <b>El sistema caulinar</b>, este comprende el tallo, las ramas y las hojas de la planta. 
 
-    .bg_23.p-4
+    .bg_23.p-4.mb-5
       .row
         .col-lg-9
           ImagenInfografica.color-secundario.mb-5
@@ -299,48 +299,253 @@
                 figure
                   img(src='@/assets/curso/tema3/img24.png', alt='Texto que describa la imagen')
 
-              .tarjeta.bg_4.p-4(x="4.6%" y="53%" numero="1")
-                .row                    
-                  .col-lg-12
-                    p.m-0.text-bold Clasificación de los seres vivos
-                    p.m-0 Mediante la clasificación biológica se pueden agrupar y categorizar los organismos y sus taxones, permitiendo establecer un orden entre los diversos organismos (móneras, protistas, hongos, plantas y animales).
+              .tarjeta.bg_24.p-4(x="66.7%" y="3.5%" numero="1")
+                .row.align-items-center                    
+                  .col-lg-5.col-md-5.col-5
+                    img.img-t.m-auto(src='@/assets/curso/tema3/img25.png', alt='')
+                  .col-lg-6.col-md-6.col-6
+                    p.m-0 <b>Nudos</b>, donde se desarrollan las hojas.
 
-              .tarjeta.bg_5.p-4(x="72.5%" y="30.7%" numero="2")
-                .row                    
-                  .col-lg-12
-                    p.m-0.text-bold Categorización del reino vegetal
-                    p.m-0 Dentro del reino vegetal se encuentran organismos como: <b>musgos (briofitos), helechos (pteridófitos o criptógamas), plantas con flor (espermatófitos / fanerógamas).</b>
+              .tarjeta.bg_25.p-4(x="64.5%" y="25.5%" numero="2")
+                .row.align-items-center                    
+                  .col-lg-5.col-md-5.col-5
+                    img.img-t.m-auto(src='@/assets/curso/tema3/img26.png', alt='')
+                  .col-lg-6.col-md-6.col-6
+                    p.m-0 <b>Entrenudos</b>, es la sección entre dos nudos.
 
-              .tarjeta.bg_6.p-4(x="10%" y="29.8%" numero="3")
-                .row                    
-                  .col-lg-12
-                    p.m-0.text-bold Caracterización bioclimática
-                    p.m-0 La distribución de las plantas en los ecosistemas dependen de la temperatura (termoclimas) y las precipitaciones (ombroclimas).
+              .tarjeta.bg_26.p-4(x="69%" y="32.8%" numero="3")
+                .row.align-items-center                    
+                  .col-lg-5.col-md-5.col-5
+                    img.img-t.m-auto(src='@/assets/curso/tema3/img27.png', alt='')
+                  .col-lg-6.col-md-6.col-6
+                    p.m-0 <b>Estípulas</b>, son hojas modificadas que generalmente se disponen en pares y protegen la yema axilar, solo se presentan en algunas plantas como el café y el fríjol.
 
-              .tarjeta.bg_7.p-4(x="63.7%" y="71.5%" numero="4")
-                .row                    
-                  .col-lg-12
-                    p.m-0.text-bold Corología
-                    p.m-0 Ciencia encargada del estudio de las áreas de distribución de los seres vivos, siendo el conjunto de localidades donde crece un ser vivo (reino, región, superprovincia, provincia, subprovincia, sector, subsector).
+              .tarjeta.bg_27.p-4(x="60.4%" y="39.3%" numero="4")
+                .row.align-items-center                    
+                  .col-lg-5.col-md-5.col-5
+                    img.img-t.m-auto(src='@/assets/curso/tema3/img28.png', alt='')
+                  .col-lg-6.col-md-6.col-6
+                    p.m-0 <b>Cicatrize</b>, es una huella que queda en el tallo cuando cae una hoja, una yema o se produce una lesión.
               
-              .tarjeta.bg_8.p-4(x="52.7%" y="23.3%" numero="5")
-                .row                    
-                  .col-lg-12
-                    p.m-0.text-bold Tipos biológicos
-                    p.m-0  En el proceso de adaptación y convergencia a diversos ambientes y climas las plantas desarrollan caracteres externos a nivel estructural y morfológico (biotipos), entre los que se encuentran fanerófitos, caméfitos, hemicriptófitos, criptófitos.
+              .tarjeta.bg_28.p-4(x="73.7%" y="40.6%" numero="5")
+                .row.align-items-center                    
+                  .col-lg-5.col-md-5.col-5
+                    img.img-t.m-auto(src='@/assets/curso/tema3/img29.png', alt='')
+                  .col-lg-6.col-md-6.col-6
+                    p.m-0 <b>Yemas</b>, están constituidas por tejido meristemático. Se encuentran en las partes terminales del tallo, axilas de las hojas y a veces, en otros sitios del tallo. 
 
-              .tarjeta.bg_9.p-4(x="27.3%" y="23.3%" numero="6")
-                .row                    
-                  .col-lg-12
-                    p.m-0.text-bold Regiones Florísticas                        
+              .tarjeta.bg_29.p-4(x="67%" y="51%" numero="6")
+                .row.align-items-center                    
+                  .col-lg-5.col-md-5.col-5
+                    img.img-t.m-auto(src='@/assets/curso/tema3/img30.png', alt='')
+                  .col-lg-6.col-md-6.col-6
+                    p.m-0 <b>Lenticelas</b>, en algunos tallos, dependiendo su estado de desarrollo, aparecen en la corteza unos poros, ligeramente conspicuos, denominados lenticelas, a través de los cuales se intercambian gases entre el tallo y el medio.
+         
+    .row.mb-5
+      .col-auto
+        img(src='@/assets/curso/tema3/img31.png', alt='')
+      .col-lg-2.col-md-6.col-6
+        p.mt-2 Clases de tallos
 
-              .tarjeta.bg_10.p-4(x="25.4%" y="51%" numero="7")
-                .row                    
-                  .col-lg-12
-                    p.m-0.text-bold Reinos Florísticos                        
+    p.mb-5 Según el hábitat, los tallos pueden ser aéreos, subterráneos y acuáticos.
 
+    .row.justify-content-center.mb-5
+      .col-lg-4.mb-4.mb-lg-0
+        figure
+          img.img-t.m-auto(src='@/assets/curso/tema3/img32.png', alt='')
+        .bg_color4.p-3
+          p.text-center.text-bold Tallos subterraneos
+      .col-lg-4.mb-4.mb-lg-0
+        figure
+          img.img-t.m-auto(src='@/assets/curso/tema3/img33.png', alt='')
+        .bg_color4.p-3
+          p.text-center.text-bold Tallos acuáticos
+      .col-lg-4
+        figure
+          img.img-t.m-auto(src='@/assets/curso/tema3/img34.png', alt='')
+        .bg_color4.p-3
+          p.text-center.text-bold Tallos terrestres
 
+    .row.mb-5
+      .col-auto
+        img(src='@/assets/curso/tema3/img31.png', alt='')
+      .col-lg-2.col-md-6.col-6
+        p.mt-2 Tipos de tallos
 
+    .row.justify-content-center.mt-5.mb-5(data-aos='zoom-in')
+      .col-lg-4.mb-3.mb-lg-0
+        .tarjeta-up(:style="{'background-image': `url(${require('@/assets/curso/tema3/img35.png')})`}")
+          .tarjeta-up__content.color-primario.p-2
+            h3.m-0.mt-1.text-center Según consistencia
+            p.text-center Son leñosos (árbol, arborescentes, arbustos), herbáceos, caña, carnosos.
+      .col-lg-4.mb-3.mb-lg-0
+        .tarjeta-up(:style="{'background-image': `url(${require('@/assets/curso/tema3/img36.png')})`}")
+          .tarjeta-up__content.color-primario.p-2
+            h3.m-0.mt-1.text-center Según su forma
+            p.text-center Cilíndricos, cuadrangulares, triangulares, ovalados, y aplanados.
+      .col-lg-4.mb-3.mb-lg-0
+        .tarjeta-up(:style="{'background-image': `url(${require('@/assets/curso/tema3/img37.png')})`}")
+          .tarjeta-up__content.color-primario.p-2
+            h3.m-0.mt-1.text-center Según modificaciones
+            p.text-center Estolón, rizoma, tubérculo, bulbo, crono, bulbillo, cladodio, espinas.
+
+    .bg_color5.p-3.mb-5
+      .row.justify-content-around.align-items-center
+        .col-lg-2
+            figure
+              img.img-t.m-auto(src='@/assets/curso/tema3/img38.svg', alt='')  
+        .col-lg-10
+          p.mb-0 La identificación de las hojas permite verificar la forma, el peciolo, la complejidad, las nervaduras, el ápice, la base, el borde y las posibles modificaciones, siendo así que se clasifican en:
+
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Tabla 1. 
+          span <em>Organelos celulares</em>
+            
+        table(data-aos="fade-down-right")
+          thead
+            tr
+              td.h4.bg_color2.text-center(colspan="10") CLASIFICACIÓN DE LAS HOJAS
+          tbody
+            tr
+              td(colspan="2") Según la forma
+              td(colspan="8") Acicular (pino), lineal (gramíneas: trigo), lanceolada (sauce), oblanceolada (Rumex paraguayensis), espatulada, oblonga, elíptica, oval u ovalada, ovada ovada, obovada, orbicular, peltada (Tropaeolum majus), obcordada, romboidal, reniforme, sagitada, deltoide, o'deltoide, astada, cuneiforme, perfoliada,pandurada, decurrente, falcada, ensiforme.
+              
+            tr
+              td(colspan="2") Según el pecíolo
+              td(colspan="8") Las hojas pueden ser: pecioladas, subpecioladas, sésiles o sentadas, envainadas y aladas. 
+              
+            tr
+              td(colspan="2") Clasificación de las hojas según la complejidad
+              td(colspan="8") Las hojas pueden ser simples y compuestas, y poseen más de un limbo.
+              
+            tr
+              td(colspan="2") Según las nervaduras
+              td(colspan="8") Las hojas pueden ser: retinervadas (pinnatinervias, palmatinervias y curvinervadas) si tienen una nervadura central y a partir de estas se ramifican en nervaduras secundarias, luego en terciariasy paralelinervada.
+              
+            tr
+              td(colspan="2") Según el ápice
+              td(colspan="8") Por el ápice reciben diferentes nombres, así: redondeado, obtuso, agudo, atenuado, truncado, emarginado, retuso, cuspidado, mucronato, acuminado, espinoso, aristado, caudado. 
+              
+            tr
+              td(colspan="2") Según la base 
+              td(colspan="8") Toman el nombre de conformidad a la forma de la base, como: redondeada, asimétrica, obtusa, aguda, cordada,cuneada, atenuada, truncada, sagitada, auriculada, abrasadora y astada. 
+              
+            tr
+              td(colspan="2") Según el borde
+              td(colspan="8") Existe una variedad de bordes que permiten diferenciar las clases o tipos de hojas. El borde puede ser: entero y lobado (partidas, sectadas, dentadas, aserradas, crenado, ondulado sinuado, crespo, revoluto).
+
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 17. 
+          span <em>Tipos de hoja según la forma</em>    
+        figure
+          img.img-t.m-auto(src='@/assets/curso/tema3/img39.png', alt='')
+        .row.justify-content-center.mt-4
+          .col-lg-12
+            figcaption.mx-2 Nota. Tomado de Anatomía y morfología vegetal (2019).
+            
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 18. 
+          span <em>Tipos de hoja según el peciolo</em>    
+        figure
+          img.img-t.m-auto(src='@/assets/curso/tema3/img40.png', alt='')
+        .row.justify-content-center.mt-4
+          .col-lg-12
+            figcaption.mx-2 Nota. Tomado de Anatomía y morfología vegetal (2019).
+
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 19. 
+          span <em>Tipos de hoja según la complejidad</em>    
+        figure
+          img.img-t.m-auto(src='@/assets/curso/tema3/img41.png', alt='')
+        .row.justify-content-center.mt-4
+          .col-lg-12
+            figcaption.mx-2 Nota. Tomado de Anatomía y morfología vegetal (2019).
+
+    .bg_16.p-5.mb-4.mb-lg-0
+      .row.justify-content-eleven.align-items-center
+        .col-lg-4.mb-4(data-aos="fade-left")
+          figure
+            img.img-t.m-auto(src='@/assets/curso/tema3/img42.png', alt='') 
+        .col-lg-7.col-xl-8.col-xxl-7.mt-4
+          p.m-0 Las hojas realizan funciones importantes en la planta, dentro de las cuales se encuentran: la transpiración, la gutación, la fotosíntesis, la respiración, el almacenamiento de sustancias, la reproducción vegetativa y la nutrición de la planta. Además, se utilizan en la industria alimenticia, la medicina y como decoración u ornamentación.
+
+    .row.mb-4.mb-lg-0
+      .col-auto
+        img(src='@/assets/curso/tema3/img31.png', alt='')
+      .col-lg-2.col-md-6.col-6
+        p.mt-2 La flor
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-7
+        p Conformada por un conjunto de antófilos que se desarrollan de una yema axilar floral. La cual está compuesta por el pedúnculo, el cáliz, la corola (conjunto de pétalos, androceo -estambres- y gineceo -pistilo-). 
+        p Una flor completa es bisexual o hermafrodita, si le falta algún ciclo sexual es unisexual o incompleta, si en la misma planta existen flores estaminadas y pistiladas por separado se denominan monoicas (maíz), pero si las flores femeninas y masculinas están en diferentes plantas de la misma especie se llaman dioicas (sauce y mariguana), también existen casos donde las flores son unisexuales y bisexuales en la misma planta o en diferente (papayo) y son las polígamas. Ver figura.
+      .col-lg-5
+        figure.mb-5
+          img.img-t.m-auto(src='@/assets/curso/tema3/img43.png', alt='') 
+
+    .bg_23.p-5.mb-4
+      .row.justify-content-center.mb-4
+        .col-lg-10
+          .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+            h5 Figura 20. 
+            span <em>Estructura de una flor típica</em>    
+          figure
+            img.img-t.m-auto(src='@/assets/curso/tema3/img44.png', alt='')
+
+    .row.mb-4
+      .col-auto
+        img(src='@/assets/curso/tema3/img31.png', alt='')
+      .col-lg-6.col-md-8.col-8
+        p.mt-2 Inflorescencias
+
+    p.mb-5 Las flores se agrupan según la inflorescencia, cuando hay una sola flor y está separada por hojas se considera simple y cuando hay dos o más flores se considera compuesta. A su vez, las compuestas se dividen en racimosas o indefinidas y cimosas o definidas. Las inflorescencias racimosas pueden ser racimosos, picoides y amiloides, y, las inflorescencias racimoides son racimo, panoja o panícula y corimbo. Ver figura.
+
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 21. 
+          span <em>Inflorescencia racimoides</em>    
+        figure
+          img.img-t.m-auto(src='@/assets/curso/tema3/img45.png', alt='')
+        .row.justify-content-center
+          .col-lg-12
+            figcaption.mx-3 Nota. Tomado de Anatomía y morfología vegetal (2019).
+
+    p.mb-5 Las inflorescencias picoides pueden ser: espiga, espiga compuesta, amento, espádice y estróbilo. Las inflorescencias umbeladas pueden ser: capítulo (si no tiene involucro se llama cabezuela), umbela simple y umbela compuesta.
+    
+    .row.mb-4.mb-lg-0
+      .col-auto
+        img(src='@/assets/curso/tema3/img31.png', alt='')
+      .col-lg-2.col-md-6.col-6
+        p.mt-2 El fruto
+
+    .bg_30.p-5
+      .row.justify-content-around.align-items-center
+        .col-lg-7.col-xl-8.col-xxl-7.mt-4.mb-4.mb-lg-0
+          p.ms-3 Es el ovario desarrollado, maduro y contiene las semillas. Compuesto por epicarpio, mesocarpio, endocarpio; se clasifica en simples (un solo ovario), los cuales son carnosos o secos y los compuestos (varios ovarios).
+          p.m-0.ms-3 Los frutos simples secos se subdividen en dehiscentes (el fruto se abre solo, dejando libre las semillas pixidio y cápsulas), por ejemplo, legumbre, folículo, silicua, pixidio y cápsula e indehiscentes (cuando el pericarpio se descompone las semillas quedan libres), por ejemplo,aquenio, nuez, cariópside, cipsela, lomento y samará. Ver figura.
+        .col-lg-5.mb-4(data-aos="fade-left")
+          figure
+            img.img-t.m-auto(src='@/assets/curso/tema3/img47.svg', alt='') 
+
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 22. 
+          span <em>Frutos simples carnosos: bayas</em>    
+        figure
+          img.img-t.m-auto(src='@/assets/curso/tema3/img47.png', alt='')
+        .row.justify-content-center
+          .col-lg-12
+            figcaption.mx-3 Nota. Tomado de Anatomía y morfología vegetal (2019).
 
 </template>
 

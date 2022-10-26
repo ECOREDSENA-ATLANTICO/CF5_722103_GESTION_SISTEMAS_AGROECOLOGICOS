@@ -222,3 +222,142 @@
 
 .bg_23
   background-color: #FCFFF1
+
+.bg_24
+  background-image: url("../assets/curso/tema3/img25-1.svg")
+  background-repeat: no-repeat
+  width: 400px
+  height: 200px
+  border-radius: 0px
+  margin-top: -10%
+  margin-left: 3%
+  @media (max-width: $bp-max-md)
+    margin-left: -21%  
+
+.bg_25
+  background-image: url("../assets/curso/tema3/img26-1.svg")
+  background-repeat: no-repeat
+  width: 400px
+  height: 200px
+  border-radius: 0px
+  margin-top: -10%
+  @media (max-width: $bp-max-md)
+    margin-left: -21%   
+
+.bg_26
+  background-image: url("../assets/curso/tema3/img27-1.svg")
+  background-repeat: no-repeat
+  width: 400px
+  height: 301px
+  border-radius: 0px
+  margin-top: -10%
+  margin-left: 9%
+  @media (max-width: $bp-max-md)
+    margin-left: -21%   
+
+.bg_27
+  background-image: url("../assets/curso/tema3/img28-1.svg")
+  background-repeat: no-repeat
+  width: 400px
+  height: 230px
+  border-radius: 0px
+  margin-top: -8%
+  @media (max-width: $bp-max-md)
+    margin-left: -21%   
+
+.bg_28
+  background-image: url("../assets/curso/tema3/img29-1.svg")
+  background-repeat: no-repeat
+  width: 400px
+  height: 270px
+  border-radius: 0px
+  margin-top: -8%
+  margin-left: 23%
+  @media (max-width: $bp-max-md)
+    margin-left: -21%   
+
+.bg_29
+  background-image: url("../assets/curso/tema3/img30-1.svg")
+  background-repeat: no-repeat
+  width: 400px
+  height: 365px
+  border-radius: 0px
+  margin-bottom: -14%
+  margin-left: 3%
+  @media (max-width: $bp-max-md)
+    margin-left: -21%   
+
+.bg_color3
+  background-color: #DEEBAD
+  @media screen and (max-width: 768px)
+    margin-inline: 23.5%
+  @media screen and (max-width: 425px)
+    margin-inline: 6.3%
+
+.bg_color4
+  background-color: #DEEBAD
+  margin-inline: 2%
+  margin-top: -3%
+  @media screen and (max-width: 768px)
+    margin-inline: 18%
+    margin-top: -1.8%
+  @media screen and (max-width: 425px)
+    margin-inline: 2%
+    margin-top: -2.7%
+
+.tarjeta-up
+  position: relative
+  overflow: hidden
+  width: 100%
+  min-height: 400px
+  background-size: cover
+  background-position: center
+  background-repeat: no-repeat
+  &__content
+    position: absolute
+    width: 100%
+    bottom: 0
+    transform: translateY(55%)
+    left: 0
+    transition: transform 0.5s ease-in-out, height 0.5s ease-in-out
+    p
+      opacity: 0
+      transition: opacity 0.3s ease-in-out
+    p, h1, h2, h3, h4, h5, h6 
+      color: white !important
+    &.color-primario
+      background-color: #12263F
+  &:hover
+    .tarjeta-up__content
+      transform: translateY(0%)
+      p
+        opacity: 1
+
+.bg_color5
+  position: relative
+  .row
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 0rem
+    top: 0%
+    left: 0%
+    width: 35%
+    height: 100%
+    background-color: #EFF5D6
+    @media (max-width: $bp-max-md) 
+      height: 90%
+
+table *
+  border: 2px solid #0B481E
+
+.bg_30
+  background-image: url("../assets/curso/tema3/img46.svg")
+  background-repeat: no-repeat
+  background-size: 100% 97%
+  @media (max-width: $bp-max-md) 
+    background-image: none
+    background-color: #DEEBAD 
+  @media (min-width: $bp-min-lg) and (max-width: $bp-max-xl)
+    background-size: 100% 98%
