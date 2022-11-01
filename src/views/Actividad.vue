@@ -11,13 +11,13 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 La botánica como instrumento del proceso de propagación vegetal
-        p.mb-4 #[b Objetivo] Identificar los términos relacionados con la botánica, diferenciando las especies vegetales, con el fin de conocer el proceso de propagación vegetal según los principios agroecológicos.
+        p.mb-4 Identificar los términos relacionados con la botánica, diferenciando las especies vegetales, con el fin de conocer el proceso de propagación vegetal según los principios agroecológicos.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Arrastrar y soltar el término con la definición que corresponde
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/actividad/story.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 

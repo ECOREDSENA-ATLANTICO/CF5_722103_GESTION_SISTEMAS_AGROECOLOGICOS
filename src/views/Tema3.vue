@@ -18,7 +18,7 @@
     Separador
 
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 3.1. Fuentes de información de sistemas agroecológicos
+        h2 3.1 Citología
 
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-7.mb-3
@@ -70,7 +70,7 @@
               td(colspan="7") Formada por sustancias ergásticas y es la encargada de permitir la entrada y salida de sustancias.
               
             tr
-              td(colspan="3") Plástidios
+              td(colspan="3") Plastidios
               td(colspan="7") Se forman por los plastidios a partir de protoplastos que se encuentran en los tejidos meristemáticos.
               
             tr
@@ -132,7 +132,7 @@
     Separador
 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 3.2. Histología 
+        h2 3.2 Histología 
 
     p.mb-5 Los vegetales multicelulares tienen tejidos y órganos, pero estos difieren según el nivel de organización, cada órgano de la planta (tallos, hojas, raíces, flores) está formado por diferentes tejidos que provienen de la proliferación y diferenciación celular, entre los cuales se encuentran:
     
@@ -197,7 +197,7 @@
     Separador
 
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 3.3. Anatomía y morfología de las plantas
+        h2 3.3 Anatomía y morfología de las plantas
 
     p.mb-5 El cuerpo de una planta está estructurado por dos sistemas: el caulinar y el radical. Ver figura.
 
@@ -211,6 +211,7 @@
         figcaption.ms-2 Nota. Tomado de Anatomía y morfología vegetal (2019).
 
     .bg_23.p-5
+      p.mb-4 <b>El sistema radical</b> comprende la raíz y sus ramificaciones. Ver figura.
       .row.justify-content-center.mb-4
         .col-lg-10
           .titulo-sexto.color-acento-contenido(data-aos="fade-right")
@@ -245,6 +246,8 @@
             img.img-t.m-auto(src='@/assets/curso/tema3/img18.png', alt='')
             .bg_color3.p-3
               p.text-center.text-bold Raiz adventicia 
+
+    p.mb-5 Morfológicamente se encuentran: raíces pivotantes, fibrosas, modificadas, neumatóforos, zancos, adherentes, columnares, tabulares, chupadores. Ver figuras.
 
     .row.justify-content-center.mb-4
       .col-lg-8
@@ -325,7 +328,7 @@
                   .col-lg-5.col-md-5.col-5
                     img.img-t.m-auto(src='@/assets/curso/tema3/img28.png', alt='')
                   .col-lg-6.col-md-6.col-6
-                    p.m-0 <b>Cicatrize</b>, es una huella que queda en el tallo cuando cae una hoja, una yema o se produce una lesión.
+                    p.m-0 <b>Cicatriz</b>, es una huella que queda en el tallo cuando cae una hoja, una yema o se produce una lesión.
               
               .tarjeta.bg_28.p-4(x="73.7%" y="40.6%" numero="5")
                 .row.align-items-center                    
@@ -398,11 +401,7 @@
           p.mb-0 La identificación de las hojas permite verificar la forma, el peciolo, la complejidad, las nervaduras, el ápice, la base, el borde y las posibles modificaciones, siendo así que se clasifican en:
 
     .row.justify-content-center.mb-5
-      .col-lg-10
-        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Tabla 1. 
-          span <em>Organelos celulares</em>
-            
+      .col-lg-10            
         table(data-aos="fade-down-right")
           thead
             tr
@@ -443,6 +442,8 @@
           span <em>Tipos de hoja según la forma</em>    
         figure
           img.img-t.m-auto(src='@/assets/curso/tema3/img39.png', alt='')
+        figure
+          img.img-t.m-auto(src='@/assets/curso/tema3/img40.png', alt='')
         .row.justify-content-center.mt-4
           .col-lg-12
             figcaption.mx-2 Nota. Tomado de Anatomía y morfología vegetal (2019).
@@ -453,7 +454,7 @@
           h5 Figura 18. 
           span <em>Tipos de hoja según el peciolo</em>    
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema3/img40.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema3/img46.png', alt='')
         .row.justify-content-center.mt-4
           .col-lg-12
             figcaption.mx-2 Nota. Tomado de Anatomía y morfología vegetal (2019).
@@ -563,7 +564,7 @@
     separador
 
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-      h2 3.4. La semilla 
+      h2 3.4 La semilla 
     
     .row.mb-5
       .col-12.col-lg-4.mb-3.mb-lg-0

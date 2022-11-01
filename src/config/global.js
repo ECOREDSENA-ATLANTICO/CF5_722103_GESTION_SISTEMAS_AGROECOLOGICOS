@@ -210,7 +210,7 @@ export default {
     {
       tema: 'Fisiología vegetal',
       referencia:
-        'Universidad Nacional de la Amazonia. (2016). Texto básico para profesionales en ingeniería forestal en el área de fisiología vegetal. UNAP.',
+        'Universidad Nacional de la Amazonia. (2016). <em>Texto básico para profesionales en ingeniería forestal en el área de fisiología vegetal.</em> UNAP.',
       tipo: 'Libro',
       link:
         'https://www.unapiquitos.edu.pe/pregrado/facultades/forestales/descargas/publicaciones/FISIO-TEX.pdf',
@@ -218,7 +218,7 @@ export default {
     {
       tema: 'Nutrición y manejo nutricional',
       referencia:
-        'Instituto internacional de la potasa, Basilea, Suiza. (2000). Principios de nutrición vegetal. Aulavirtual.agro.',
+        'Instituto internacional de la potasa, Basilea, Suiza. (2000). <em>Principios de nutrición vegetal.</em> Aulavirtual.agro.',
       tipo: 'Libro',
       link:
         'https://aulavirtual.agro.unlp.edu.ar/pluginfile.php/66737/mod_resource/content/2/PRINCIPIOS%20DE%20NUTRICI%C3%93N%20VEGETAL.pdf',
@@ -226,7 +226,7 @@ export default {
     {
       tema: 'Propagación vegetal',
       referencia:
-        'Universidad Nacional Autónoma de México (2016). Manual de propagación de plantas superiores. Casa de Libros Abiertos.',
+        'Universidad Nacional Autónoma de México (2016). <em>Manual de propagación de plantas superiores.</em> Casa de Libros Abiertos.',
       tipo: 'Libro',
       link:
         'https://www.casadelibrosabiertos.uam.mx/contenido/contenido/Libroelectronico/manual_plantas.pdf',
@@ -268,19 +268,19 @@ export default {
   referencias: [
     {
       referencia:
-        'Alegría, W. (2016). Texto básico para profesionales en ingeniería forestal en el área de fisiología vegetal. Universidad Nacional de la Amazonia.',
+        'Alegría, W. (2016). <em>Texto básico para profesionales en ingeniería forestal en el área de fisiología vegetal.</em> Universidad Nacional de la Amazonia.',
       link:
         'https://www.unapiquitos.edu.pe/pregrado/facultades/forestales/descargas/publicaciones/FISIO-TEX.pdf',
     },
     {
       referencia:
-        'Chuncho, G., Chuncho, C. y Aguirre, Z. (2019). Anatomía y morfología vegetal. Estudios de biodiversidad. Universidad Nacional de Loja.',
+        'Chuncho, G., Chuncho, C. y Aguirre, Z. (2019). <em>Anatomía y morfología vegetal. Estudios de biodiversidad.</em> Universidad Nacional de Loja.',
       link:
         'https://unl.edu.ec/sites/default/files/archivo/2019-12/ANATOMI%CC%81A%20Y%20MORFOLOGI%CC%81A%20VEGETAL.pdf',
     },
     {
       referencia:
-        'Osuna, H., Osuna, A. y Fierro, A. (2016). Manual de propagación de plantas superiores. Universidad Nacional Autónoma de México y Universidad Autónoma Metropolitana.',
+        'Osuna, H., Osuna, A. y Fierro, A. (2016). <em>Manual de propagación de plantas superiores.</em> Universidad Nacional Autónoma de México y Universidad Autónoma Metropolitana.',
       link:
         'https://www.casadelibrosabiertos.uam.mx/contenido/contenido/Libroelectronico/manual_plantas.pdf',
     },
@@ -336,7 +336,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Daniel Polanco',
+        nombre: 'Juan Daniel Polanco Muñoz',
         cargo: 'Validación de diseño',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -348,7 +348,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -357,6 +357,42 @@ export default {
         nombre: 'Zuleidy María Ruíz Torres',
         cargo: 'Revisión de guion audiovisual',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Yicelly Estefania Mesa Silva',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Validación Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'John Jairo Arciniegas González',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Lady Adriana Ariza Luque',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [

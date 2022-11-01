@@ -40,7 +40,7 @@
     Separador
   
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 2.1. Subreino Thallobionta (talofitas)
+        h2 2.1 Subreino Thallobionta (talofitas)
 
     .bg_13.mb-5.mb-lg-0
       .row.align-items-center
@@ -55,7 +55,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
           h5 Figura 3.
-          span <em>Aspectos clave dentro de la sistemática vegetal</em>
+          span <em>Tipos de algas</em>
         figure
           img.img-t.mx-auto(src='@/assets/curso/tema2/img08.svg', alt='')
 
@@ -101,7 +101,7 @@
     Separador
 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 2.2. Subreino Embryobionta
+        h2 2.2 Subreino Embryobionta
 
     p.mb-5 Hace referencia a las plantas con tejidos conductores (xilema y floema), con reproducción sexual (formación de esporas) y asexual (sin formación de esporas), entre las cuales se encuentran:
 

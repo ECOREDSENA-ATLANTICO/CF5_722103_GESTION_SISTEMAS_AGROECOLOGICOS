@@ -6,7 +6,7 @@
     p Es importante tener cuenta que existen diversas formas de propagación vegetal de las plantas, por lo cual es necesario conocer la especie y las condiciones propias que permitan que se desarrolle el proceso a cabalidad y de manera exitosa, identificando las variables técnicas, ambientales, sociales y económicas que involucre, con miras a obtener los resultados esperados.
     p Es indispensable conocer la sistemática, la morfología y la fisiología de la planta, de tal modo que permita identificar las condiciones óptimas para desarrollar el proceso de propagación del material vegetal, teniendo en cuenta los tipos, las características, las instalaciones, las técnicas, los métodos, los cuidados, entre otros, ampliando de esta manera los conocimientos en el área y mejorando las capacidades para planear el sistema agroecológico.
     p Dentro de la planificación del proceso de propagación vegetal se debe tener en cuenta la normatividad vigente que garantice el cumplimiento responsable de las obligaciones técnicas, ambientales y sociales.
-    p.mb-5 Así pues, un resumen de lo visto en el presente componente podrá ser visualizado en el siguiente mapa conceptual
+    p.mb-5 Así pues, un resumen de lo visto en el presente componente podrá ser visualizado en el siguiente mapa conceptual:
 
     .row.justify-content-center
       .col-lg-10.mb-5

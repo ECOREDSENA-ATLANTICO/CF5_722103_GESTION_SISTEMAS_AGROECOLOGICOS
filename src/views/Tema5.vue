@@ -132,18 +132,11 @@
               template(v-slot:imagen)
                 figure
                   img(src='@/assets/curso/tema5/img6.svg', alt='Texto que describa la imagen')
-              .tarjeta.bg_24.p-4(x="19%" y="3.5%" numero="")
+              .tarjeta.bg_24.p-4(x="19%" y="3.5%" numero="+")
                 p.m-0 <b>Semillas:</b> consta de activación (hidratación), digestión y translocación (reserva de grasas, proteínas y carbohidratos), crecimiento de la plántula (división celular). 
-              .tarjeta.bg_25.p-4(x="3%" y="31.5%" numero="")
-                p.m-0 <b>Por injerto:</b> unir entre sí dos porciones de tejido vegetal viviente, de tal manera que se unan y posteriormente crezcan y se desarrollen como una planta. Se componen del patrón y la púa.
-              .tarjeta.bg_35.p-4(x="3%" y="59.5%" numero="")
-                p.m-0 <b>Por estaca:</b> se corta una porción de tallo, raíz u hoja, luego se coloca bajo condiciones ambientales específicas y se induce a la formación  de raíces, tallos, para obtenerse una planta independiente e igual a la madre.
-              .tarjeta.bg_27.p-4(x="18%" y="87.5%" numero="")
-                p.m-0 <b>Por acuerdo:</b> se provoca la formación de raíces en una porción del tallo, que está todavía adherida a la planta madre, mientras dura el enraizamiento.
-              .tarjeta.bg_24.p-4(x="66.7%" y="3.5%" numero="")
-                p.m-0 <b>Plantas anuales</b>, son aquellas que completan su ciclo de vida semilla-planta-semilla.
-              .tarjeta.bg_38.p-4(x="82.7%" y="31.5%" numero="")
-                p.m-0 <b>Plantas bianuales,</b> plantas que requieren de dos años para completar su ciclo de vida. Ellas crecen y almacenan los productos elaborados  durante un periodo determinado y al año producen semillas.
+                
+              .tarjeta.bg_38.p-4(x="3%" y="31.5%" numero="+")
+                p <b>Por injerto:</b> unir entre sí dos porciones de tejido vegetal viviente, de tal manera que se unan y posteriormente crezcan y se desarrollen como una planta. Se componen del patrón y la púa.
                 ul.lista-ul.mb-3
                   li 
                     i.fas.fa-caret-right.fa-lg.colr
@@ -151,8 +144,20 @@
                   li 
                     i.fas.fa-caret-right.fa-lg.colr
                     span <b>La púa</b> o injerto es un pequeño trozo  de rama separado de la planta madre que tiene yemas en reposo y forma la parte superior del injerto.
-
-              .tarjeta.bg_35.p-4(x="82.7%" y="59.5%" numero="")
+              
+              .tarjeta.bg_35.p-4(x="3%" y="59.5%" numero="+")
+                p.m-0 <b>Por estaca:</b> se corta una porción de tallo, raíz u hoja, luego se coloca bajo condiciones ambientales específicas y se induce a la formación  de raíces, tallos, para obtenerse una planta independiente e igual a la madre.
+              
+              .tarjeta.bg_27.p-4(x="18%" y="87.5%" numero="+")
+                p.m-0 <b>Por acuerdo:</b> se provoca la formación de raíces en una porción del tallo, que está todavía adherida a la planta madre, mientras dura el enraizamiento.
+              
+              .tarjeta.bg_24.p-4(x="66.7%" y="3.5%" numero="+")
+                p.m-0 <b>Plantas anuales</b>, son aquellas que completan su ciclo de vida semilla-planta-semilla.
+              
+              .tarjeta.bg_25.p-4(x="82.7%" y="31.5%" numero="+")
+                p.m-0 <b>Plantas bianuales,</b> plantas que requieren de dos años para completar su ciclo de vida. Ellas crecen y almacenan los productos elaborados  durante un periodo determinado y al año producen semillas.
+              
+              .tarjeta.bg_35.p-4(x="82.7%" y="59.5%" numero="+")
                 p.m-0 <b>Plantas perennes,</b> plantas de vida larga, las cuales viven más de dos años
 
     separador
@@ -188,7 +193,7 @@
           figure
             img.img-t.mb-5(src='@/assets/curso/tema5/img10.svg', alt='')
           h4 Laboratorios
-          p implementación de herramientas tecnológicas para los procesos de propagación in situ (clonación) bajo condiciones estériles, libres de virus y bacterias, permite generar genotipos deseados y obtención de altos volúmenes de plantas.
+          p implementación de herramientas tecnológicas para los procesos de propagación <em>in situ</em> (clonación) bajo condiciones estériles, libres de virus y bacterias, permite generar genotipos deseados y obtención de altos volúmenes de plantas.
 
     p A la hora de realizar el proceso de propagación vegetal es importante tener en cuenta el tipo y los métodos de propagación, los medios de germinación (sustratos), la desinfección de los medios, las condiciones ambientales, el tipo de cultivo, el proceso de fertilización, el riego y la rastreabilidad del proceso, los materiales de propagación, los fertilizantes, la gestión de residuos, la salud y seguridad en el trabajo, es decir, tener en cuenta las normas vigentes que garanticen el éxito del proceso de propagación.
 

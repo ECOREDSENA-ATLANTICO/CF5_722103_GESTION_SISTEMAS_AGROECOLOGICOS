@@ -72,7 +72,7 @@
 
       .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
         h5 Figura 1.
-        span <em>Técnicas de investigación</em>
+        span <em>Formas biológicas</em>
       
       .bg_3.px-4
         .row
@@ -99,7 +99,7 @@
         img.img-t.m-auto(src='@/assets/curso/tema1/img06.svg', alt='')
       .col-lg-10
         p La botánica cumple funciones primordiales que contribuyen al desarrollo ambiental, social y económico, pues su estudio permite comprender la evolución de la vida en la Tierra.
-        p Vea a continuación los diversos factores facilitaron su desarrollo y progreso. 
+        p Vea a continuación los diversos factores que facilitaron su desarrollo y progreso. 
 
     figure
     .video

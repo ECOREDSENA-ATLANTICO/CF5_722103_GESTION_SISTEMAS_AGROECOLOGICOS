@@ -68,7 +68,7 @@
           figure
             img.img-t.m-auto(src='@/assets/curso/tema4/img7.png', alt='') 
         .col-lg-7.col-xl-8.col-xxl-7.mt-4
-          p.m-0 Es la ciencia que permite estudiar el funcionamiento de la planta, comprender los fenómenos que ocurren en su interior, entre ellos, cómo se transporta el agua y los nutrientes a través de la raíz, tallo, hojas y el intercambio con la atmósfera, además de las distintas reacciones químicas que permiten transformar los nutrientes y el agua para el aprovechamiento de la planta. En sí la fisiología vegetal brinda herramientas para comprender el metabolismo de las plantas.
+          p.m-0 Las fitohormonas son compuestos naturales producidos en las plantas y se encargan de estimular, inhibir o modificar el desarrollo, regulando eventos fisiológicos. Se encuentran en todas las partes de la planta, aunque se concentran donde se requiere mayor demanda. A continuación vea su clasificación:
     
     .bg_22.p-4.mb-5
       SlyderA(tipo="b")
@@ -164,11 +164,11 @@
               td Implicados en reacciones de transferencia energética. 
             tr
               td K, N, Mg, Ca, Mn, Cl
-              td En forma de iones en la solución del suelo
+              td En forma de iones en la solución del suelo.
               td Controladores de la permeabilidad de la membrana y electropiales.
             tr
               td Fe, Cu, Zn y Mo
-              td En forma de iones o quelatos de la solución del suelo
+              td En forma de iones o quelatos de la solución del suelo.
               td Permiten el transporte de electrones  por cambio de valencia.
     
     p.mb-5 Factores que controlan el contenido mineral de las plantas:
