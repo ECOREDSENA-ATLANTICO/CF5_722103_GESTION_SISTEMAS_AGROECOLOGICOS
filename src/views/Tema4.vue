@@ -129,7 +129,7 @@
               p Maduración y abscisión de los frutos. Senescencia de las hojas y las flores.
           .col-11.col-lg-5.mt-0.mt-md-4
             figure
-              img(src='@/assets/curso/tema4/img11.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema4/img15.png', alt='Texto que describa la imagen')
     
     separador
 
