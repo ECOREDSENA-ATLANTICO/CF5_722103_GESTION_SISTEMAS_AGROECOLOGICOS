@@ -5,30 +5,28 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Propagación vegetal
+      h1(data-aos="fade-right") Propagación vegetal
     
-    .bg_color6
-      .row.mb-5.justify-content-center.p-4.p-lg-0
-        .col-12.col-lg-7.d-flex.align-items-center.positio-relative
-          p.mt-5 Consiste en la multiplicación de las plantas y así conservar un cultivo con características específicas, siendo un proceso clave en el desarrollo ambiental, social y económico, y se reconoce como la producción de una planta a partir de dos alternativas: sexualmente a través de semillas o asexualmente a partir de tejidos, involucrando procesos sencillos hasta biotecnológicos.
-          img.pst.d-none.d-lg-flex(src='@/assets/curso/tema5/img2.svg', alt='') 
-          img.pst_1.d-none.d-lg-flex(src='@/assets/curso/tema5/img3.svg', alt='') 
-        .col-12.col-lg-3
+    .bg_16.p-4.p-lg-5.mb_3.mt_2
+      .row.justify-content-center
+        .col-12.col-lg-7.col-xl-8.col-xxl-7.d-flex.align-items-center(data-aos="fade-left")
+          p.m-0.mt-xl-4 Consiste en la multiplicación de las plantas y así conservar un cultivo con características específicas, siendo un proceso clave en el desarrollo ambiental, social y económico, y se reconoce como la producción de una planta a partir de dos alternativas: sexualmente a través de semillas o asexualmente a partir de tejidos, involucrando procesos sencillos hasta biotecnológicos.
+        .col-12.col-lg-3(data-aos="fade-right")
           figure
-            img.img-t.mx-auto(src='@/assets/curso/tema5/img1.png', alt='')
+            img.img-t.mx-auto.mb-4.mt-xl-4(src='@/assets/curso/tema5/img1.png', alt='')
     
     separador
 
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-      h2 5.1. Sexual
+      h2 5.1 Sexual
     
     p.mb-5 La propagación sexual se realiza por la semilla, que es el órgano a través del cual el nuevo individuo se dispersa. El éxito de este tipo de propagación está determinado por las características fisiológicas y bioquímicas de la semilla: sin embargo, hay factores externos que lo influyen, tales como el suelo, el clima, la potencia y la depredación de otros. 
 
     .row.mb-5
-      .col-12.col-lg-4
+      .col-12.col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img.img-t.mx-auto(src='@/assets/curso/tema5/img4.png', alt='')
-      .col-12.col-lg-8
+      .col-12.col-lg-8(data-aos="fade-left")
         p Comprende el desarrollo de las estructuras masculinas (polen) y femeninas (saco embrionario) de la flor. Los gametos tanto femeninos como masculinos están contenidos en el saco embrionario y el polen respectivamente. Durante la floración, el polen se transfiere de la antera al estigma (polinización), en donde germina. Un tubo polínico crece hasta llegar al saco embrionario dentro del óvulo. En el saco embrionario son descargados dos gametos masculinos, uno que se une al gameto femenino (fecundación) para producir el embrión (cigoto), el cual cuenta con las mismas características genéticas de la planta y otro que se unirá a los dos núcleos polares para producir el tejido nutricional de reserva, conocido como endospermo.
         .cajon.br_31.p-4
           p.mb-0 La selección de la semilla ha permitido al hombre propagar plantas de importancia alimentaria, medicinal e industrial. Dos tipos de plantas producen semillas, las gimnospermas (semillas desnudas) y angiospermas (óvulo y semilla se desarrollan dentro de un ovario). La vida de una semilla única comienza con la fecundación y el desarrollo de la planta madre hasta su germinación. Ver tabla.
@@ -62,7 +60,7 @@
     separador
 
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-      h2 5.2. Asexual
+      h2 5.2 Asexual
     
     p.mb-5 Casi siempre la nueva planta es genéticamente igual a su progenitor. Es la reproducción empleando partes de la planta original, hojas, ramas o tallos. Ver tabla.
 
@@ -104,7 +102,7 @@
     separador
 
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-      h2 5.3. Material vegetal de propagación
+      h2 5.3 Material vegetal de propagación
     
     p.mb-5 Dentro de los materiales de propagación vegetal se encuentran:
 
@@ -113,7 +111,7 @@
         .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
           h5 Figura 28. 
           span <em>Material vegetal de propagación</em>
-        figure
+        figure(data-aos="fade-down-right")
           img.img-t.mx-auto.mb-3(src='@/assets/curso/tema5/img5.svg', alt='')
           figcaption Nota. Tomado de SENA (s.f.).
     
@@ -132,7 +130,7 @@
               template(v-slot:imagen)
                 figure
                   img(src='@/assets/curso/tema5/img6.svg', alt='Texto que describa la imagen')
-              .tarjeta.bg_24.p-4(x="19%" y="3.5%" numero="+")
+              .tarjeta.bg_39.p-4(x="19%" y="3.5%" numero="+")
                 p.m-0 <b>Semillas:</b> consta de activación (hidratación), digestión y translocación (reserva de grasas, proteínas y carbohidratos), crecimiento de la plántula (división celular). 
                 
               .tarjeta.bg_38.p-4(x="3%" y="31.5%" numero="+")
@@ -148,47 +146,45 @@
               .tarjeta.bg_35.p-4(x="3%" y="59.5%" numero="+")
                 p.m-0 <b>Por estaca:</b> se corta una porción de tallo, raíz u hoja, luego se coloca bajo condiciones ambientales específicas y se induce a la formación  de raíces, tallos, para obtenerse una planta independiente e igual a la madre.
               
-              .tarjeta.bg_27.p-4(x="18%" y="87.5%" numero="+")
+              .tarjeta.bg_34.p-4(x="18%" y="87.5%" numero="+")
                 p.m-0 <b>Por acuerdo:</b> se provoca la formación de raíces en una porción del tallo, que está todavía adherida a la planta madre, mientras dura el enraizamiento.
               
-              .tarjeta.bg_24.p-4(x="66.7%" y="3.5%" numero="+")
+              .tarjeta.bg_39.p-4(x="66.7%" y="3.5%" numero="+")
                 p.m-0 <b>Plantas anuales</b>, son aquellas que completan su ciclo de vida semilla-planta-semilla.
               
-              .tarjeta.bg_25.p-4(x="82.7%" y="31.5%" numero="+")
+              .tarjeta.bg_40.p-3(x="82.7%" y="31.5%" numero="+")
                 p.m-0 <b>Plantas bianuales,</b> plantas que requieren de dos años para completar su ciclo de vida. Ellas crecen y almacenan los productos elaborados  durante un periodo determinado y al año producen semillas.
               
-              .tarjeta.bg_35.p-4(x="82.7%" y="59.5%" numero="+")
+              .tarjeta.bg_41.p-4(x="82.7%" y="59.5%" numero="+")
                 p.m-0 <b>Plantas perennes,</b> plantas de vida larga, las cuales viven más de dos años
 
     separador
 
     #t_5_4.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-      h2 5.4.  Instalaciones, diseños, equipos y bioseguridad
+      h2 5.4 Instalaciones, diseños, equipos y bioseguridad
     
-    .bg_color6
+    .bg_42
       .row.mb-5.justify-content-center.p-4.p-lg-0 
-        .col-12.col-lg-3
+        .col-12.col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
           figure
             img.img-t.mx-auto(src='@/assets/curso/tema5/img8.png', alt='')
-        .col-12.col-lg-7.d-flex.align-items-end.positio-relative
+        .col-12.col-lg-7.col-xl-8.col-xxl-7.d-flex.align-items-center.mt-3(data-aos="fade-left")
           div
-            .row.mb-4
+            .row.mb-4.mb-xl-1.mb-xxl-4
               .col-auto
                 img(src='@/assets/curso/tema5/img9.svg', alt='')
-              .col-lg-3.col-md-6.col-6
-                p.mt-2.text-bold Viveros y semilleros
-            p Los diseños dependen del tipo de lugar y de sus condiciones climáticas, por lo cual se debe pensar 	en la funcionalidad, la resistencia y la luminosidad,  estos pueden ser semicirculares, elípticas, de una o dos aguas; puede o no tener diseño y equipos especiales, y estar construidos en bambú, hierro galvanizado, madera y aluminio; el techo puede ser en plástico o vidrio, depende de las condiciones del lugar y del presupuesto.
-          img.pst.d-none.d-lg-flex(src='@/assets/curso/tema5/img2.svg', alt='') 
-          img.pst_1.d-none.d-lg-flex(src='@/assets/curso/tema5/img3.svg', alt='')
+              .col-lg-6.col-md-8.col-9
+                h3.mt-2.text-bold Viveros y semilleros
+            p.m-0.mb-xl-2 Los diseños dependen del tipo de lugar y de sus condiciones climáticas, por lo cual se debe pensar 	en la funcionalidad, la resistencia y la luminosidad,  estos pueden ser semicirculares, elípticas, de una o dos aguas; puede o no tener diseño y equipos especiales, y estar construidos en bambú, hierro galvanizado, madera y aluminio; el techo puede ser en plástico o vidrio, depende de las condiciones del lugar y del presupuesto.          
     
     .row.mb-5.justify-content-center
-      .col-12.col-lg-5.mb-3.mb-lg-0
+      .col-12.col-lg-5.mb-3.mb-lg-0(data-aos="fade-right")
         .bg_36.p-5
           figure
             img.img-t.mb-5(src='@/assets/curso/tema5/img10.svg', alt='')
           h4 Almácigos
           p Método para sembrar semillas en recipientes de menor tamaño y manejable, hasta que la plántula tenga un tamaño adecuado para trasplantar a la huerta, es decir, cuando tiene 3 o 4 hojas verdaderas. Permite adelantar cosechas, facilita labores de riego y protección. 
-      .col-12.col-lg-5
+      .col-12.col-lg-5(data-aos="fade-left")
         .bg_37.p-5
           figure
             img.img-t.mb-5(src='@/assets/curso/tema5/img10.svg', alt='')

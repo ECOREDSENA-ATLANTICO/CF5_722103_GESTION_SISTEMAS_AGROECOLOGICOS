@@ -7,7 +7,7 @@
       .titulo-principal__numero
         span
           i.fas.fa-info
-      h1 Introducción
+      h1(data-aos="fade-right") Introducción
 
     p.mb-5 En este componente se desarrollan temáticas enfocadas al proceso de propagación de material vegetal, teniendo en cuenta la sistemática, la morfología y la fisiología de la planta, identificando de este modo las condiciones   óptimas para desarrollar el proceso.
 

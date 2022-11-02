@@ -5,11 +5,11 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Botánica
+      h1(data-aos="fade-right") Botánica
 
     .bg_1.pt-2.mb-4
       .row.justify-content-end
-        .col-lg-6.align-self-center.mb-4.mb-lg-0
+        .col-lg-6.align-self-center.mb-4.mb-lg-0(data-aos="fade-right")
           p.m-0.mt-4.mx-3.mx-lg-0 Proviene de la palabra griega “planta o vegetal”, hace parte de la biología y se encarga de estudiar de manera general las plantas, además de investigar otros organismos fotosintéticos (algas y bacterias), permitiendo de esta forma entender la evolución de los vegetales. Para su estudio resulta importante analizar la morfología, la sistemática y la fisiología vegetal. 
         .col-lg-5.mb-0.mb-lg-4(data-aos="fade-left")
           figure
@@ -18,7 +18,7 @@
     Separador
 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 1.1. Conceptos básicos
+        h2 1.1 Conceptos básicos
 
     p Para  el estudio de la botánica es indispensable tener claridad de los siguientes conceptos y en lo indicado en la figura 1.
 
@@ -80,24 +80,24 @@
             .row.justify-content-center
               .col-lg-5.col-md-5.col-xl-6.col-xxl-5.bg_11.py-2
                 h3.text-center.m-0 Época favorable
-            figure
+            figure(data-aos="fade-right")
               img(src='@/assets/curso/tema1/img04.svg', alt='')
           .col-lg-6
             .row.justify-content-center.mb-4
               .col-lg-5.col-md-5.bg_11.py-2
                 h3.text-center.m-0 Época desfavorable
-            figure
+            figure(data-aos="fade-left")
               img(src='@/assets/curso/tema1/img05.svg', alt='')
                     
     Separador
 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 1.2. Importancia 
+        h2 1.2 Importancia 
 
     .row.align-items-center.mb-4.mb-lg-5
-      .col-lg-2.mb-4.mb-lg-0
+      .col-lg-2.mb-4.mb-lg-0(data-aos="fade-right")
         img.img-t.m-auto(src='@/assets/curso/tema1/img06.svg', alt='')
-      .col-lg-10
+      .col-lg-10(data-aos="fade-left")
         p La botánica cumple funciones primordiales que contribuyen al desarrollo ambiental, social y económico, pues su estudio permite comprender la evolución de la vida en la Tierra.
         p Vea a continuación los diversos factores que facilitaron su desarrollo y progreso. 
 
