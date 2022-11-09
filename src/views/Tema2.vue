@@ -15,8 +15,8 @@
           h5 Figura 2.
           span <em>Aspectos clave dentro de la sistemática vegetal</em>
         .row.justify-content-center.align-items-stretch.mb-3
-          .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
-            .bg_11.p-4
+          .col-lg-6.mb-4.mb-lg-0.mb-xl-5(data-aos="fade-right")
+            .bg_11-1.p-4
               h3.text-center.m-0 SISTEMA VEGETAL 
             .bg_12.p-4
               p.mb-5 Se encarga de describir, identificar o clasificar y dar nombres a las plantas, teniendo en cuenta aspectos morfológicos, fisiológicos, citológicos, histológicos, fitoquímicos y filogenéticos.
@@ -73,9 +73,9 @@
               p.mb_1 Son utilizadas en la alimentación humana y como fertilizantes.
               img.img-t.mx-auto(src='@/assets/curso/tema2/img06.png', alt='')
           .col-lg-4.col-md-8.col-10.mt-3.mt-lg-0(data-aos="fade-left")
-            .bg_18.p-3
+            .bg_18-1.p-3
               h4.text-center.m-0 RODOFÍCEAS
-            .bg_32.p-3
+            .bg_32-1.p-3
               p.m-0 Algas rojas pluricelulares.
               p.mb_2 Son importantes para la industria del agar.
               img.img-t.mx-auto(src='@/assets/curso/tema2/img07.png', alt='')
@@ -155,38 +155,38 @@
           span <em>División del subreino Embryobionta</em>
         .row.justify-content-center.mb-4.mb-lg-0(data-aos="fade-down")
           .col-lg-4.col-md-11.col-10.mb-5.mb-lg-0
-            .bg_18.p-3
+            .bg_18-2.p-3
               h4.text-center.m-0 Bryophytas
             .bg_19.p-3
               p Plantas no vasculares (no presentan xilema y floema).
               p.m-0 No poseen raíces, tallos y hojas verdaderos. Incluye hepáticas, musgos, y antoceros. Se encuentran  las  hepáticas (talosas y foliáceas), musgos (Sphagnopsida, Andreaeopsida y Bryopsida).
           .col-lg-4.col-md-11.col-10.mb-5.mb-lg-0
-            .bg_20.p-3
+            .bg_20-0.p-3
               h4.text-center.m-0 Lycopodiophyta
-            .bg_19-1.p-3
+            .bg_19-0.p-3
               p.m-0 Comprende Lycopodiales (licopodios), Selaginellales (selaginelas) e Isoetes (isoetes).
           .col-lg-4.col-md-11.col-10.mb-5.mb-lg-0.mt-3.mt-lg-0
-            .bg_18.p-3
-              h4.text-center.m-0 Equisetophyta o Sphenophyta
-            .bg_19.p-3
+            .bg_18-4.p-3.pb-1
+              h4.text-center Equisetophyta o Sphenophyta
+            .bg_19-2.p-3
               p.m-0 Conocidos como equisetos o colas de caballo.
         .row.justify-content-center(data-aos="fade-up")
           .col-lg-4.col-md-11.col-10.mb-5.mb-lg-0
-            .bg_18.p-3
+            .bg_18-0.p-3
               h4.text-center.m-0 División Polypodiophyta
             .bg_21.p-3
               p Conformado por los helechos, presentan hojas con sistemas vascular y ramificado.
           .col-lg-4.col-md-11.col-10.mb-5.mb-lg-0
-            .bg_20.p-3
+            .bg_20-1.p-3
               h4.text-center.m-0 Pinophyta
             .bg_21-1.p-3
               p Plantas con raíces, tallos, hojas, flores, cuyas semillas están descubiertas. 
               p Ejemplo: ciprés, romerillos, araucarias y secuoyas.
 
           .col-lg-4.col-md-11.col-10.mb-4.mb-lg-0
-            .bg_18.p-3
+            .bg_18-3.p-3
               h4.text-center.m-0 Magnoliophyta (Angiospermas)
-            .bg_21.p-3
+            .bg_21-2.p-3
               p Son las plantas más evolucionadas, producen flores, en las cuales se forman las semillas dentro del ovario, el cual se convierte en fruto: se dividen en tres clases: Magnoliidae o magnólidas, monocotiledóneas o monocots y eudicotiledóneas. 
 
     .row.justify-content-center

@@ -15,7 +15,7 @@
           figure
             img.img-t.mx-auto.mb-4.mt-xl-4(src='@/assets/curso/tema5/img1.png', alt='')
     
-    separador
+    separador.m-esp
 
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
       h2 5.1 Sexual
@@ -163,11 +163,11 @@
     #t_5_4.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
       h2 5.4 Instalaciones, diseños, equipos y bioseguridad
     
-    .bg_42
+    .bg_42.mb-4
       .row.mb-5.justify-content-center.p-4.p-lg-0 
         .col-12.col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
           figure
-            img.img-t.mx-auto(src='@/assets/curso/tema5/img8.png', alt='')
+            img.img-t.m-auto(src='@/assets/curso/tema5/img8.png', alt='')
         .col-12.col-lg-7.col-xl-8.col-xxl-7.d-flex.align-items-center.mt-3(data-aos="fade-left")
           div
             .row.mb-4.mb-xl-1.mb-xxl-4

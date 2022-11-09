@@ -290,7 +290,7 @@
         .col-lg-7.col-xl-8.col-xxl-7.mt-4(data-aos="fade-right")
           p.m-0 Las raíces sirven como sostén de la planta, permiten la absorción de nutrientes, la conducción de sustancias, ayudan a la reproducción vegetativa y además contribuyen al almacenamiento de sustancias de reserva. También pueden ser utilizadas como alimento, en la industria y en la medicina. Vea a continuación cómo está compuesto <b>el sistema caulinar</b> y cómo se clasifican los diferentes tallos:
 
-    p.mb-5 <b>El sistema caulinar</b>, este comprende el tallo, las ramas y las hojas de la planta. 
+    p.mb-5.img-esp <b>El sistema caulinar</b>, este comprende el tallo, las ramas y las hojas de la planta. 
 
     .bg_23.p-4.mb-5
       .row
@@ -345,7 +345,7 @@
     .row.mb-5
       .col-auto
         img(src='@/assets/curso/tema3/img31.png', alt='')
-      .col-lg-2.col-md-6.col-6
+      .col-lg-6.col-md-6.col-6
         h3.mt-2(data-aos="fade-right") Clases de tallos
 
     p.mb-5 Según el hábitat, los tallos pueden ser aéreos, subterráneos y acuáticos.
@@ -370,7 +370,7 @@
     .row.mb-5
       .col-auto
         img(src='@/assets/curso/tema3/img31.png', alt='')
-      .col-lg-2.col-md-6.col-6
+      .col-lg-6.col-md-6.col-6
         h3.mt-2(data-aos="fade-right") Tipos de tallos
 
     .row.justify-content-center.mt-5.mb-5(data-aos='zoom-in')
@@ -479,9 +479,9 @@
 
     .row.mb-4.mb-lg-0
       .col-auto
-        img(src='@/assets/curso/tema3/img31.png', alt='')
+        img.img-esp(src='@/assets/curso/tema3/img31.png', alt='')
       .col-lg-2.col-md-6.col-6
-        h3.mt-2(data-aos="fade-right") La flor
+        h3.mt-2.m-esp(data-aos="fade-right") La flor
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7(data-aos="fade-right")
@@ -527,7 +527,7 @@
       .col-lg-2.col-md-6.col-6
         h3.mt-2(data-aos="fade-right") El fruto
 
-    .bg_30.p-5
+    .bg_30.p-3.p-lg-5
       .row.justify-content-around.align-items-center
         .col-lg-7.col-xl-8.col-xxl-7.mt-4.mb-4.mb-lg-0(data-aos="fade-right")
           p.ms-3 Es el ovario desarrollado, maduro y contiene las semillas. Compuesto por epicarpio, mesocarpio, endocarpio; se clasifica en simples (un solo ovario), los cuales son carnosos o secos y los compuestos (varios ovarios).

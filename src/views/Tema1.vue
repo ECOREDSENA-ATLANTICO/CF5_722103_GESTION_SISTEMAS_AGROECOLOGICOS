@@ -84,7 +84,7 @@
               img(src='@/assets/curso/tema1/img04.svg', alt='')
           .col-lg-6
             .row.justify-content-center.mb-4
-              .col-lg-5.col-md-5.bg_11.py-2
+              .col-lg-5.col-md-5.bg_11-0.py-2
                 h3.text-center.m-0 Época desfavorable
             figure(data-aos="fade-left")
               img(src='@/assets/curso/tema1/img05.svg', alt='')

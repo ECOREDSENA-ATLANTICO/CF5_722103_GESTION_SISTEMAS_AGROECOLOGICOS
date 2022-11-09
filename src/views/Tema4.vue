@@ -8,7 +8,7 @@
       h1(data-aos="fade-right") Fisiología vegetal
     
     .bg_color7
-      .row.mb-5.justify-content-center.p-4.p-lg-0
+      .row.justify-content-center.p-4.p-lg-0
         .col-12.col-lg-6.d-flex.align-items-center(data-aos="fade-right")
           p.mt-3 Es la ciencia que permite estudiar el funcionamiento de la planta, comprender los fenómenos que ocurren en su interior, entre ellos, cómo se transporta el agua y los nutrientes a través de la raíz, tallo, hojas y el intercambio con la atmósfera, además de las distintas reacciones químicas que permiten transformar los nutrientes y el agua para el aprovechamiento de la planta. En sí la fisiología vegetal brinda herramientas para comprender el metabolismo de las plantas.
         .col-12.col-lg-4(data-aos="fade-left")
@@ -68,7 +68,7 @@
         .col-lg-7.col-xl-8.col-xxl-7.mt-3(data-aos="fade-right")
           p.m-0 Las fitohormonas son compuestos naturales producidos en las plantas y se encargan de estimular, inhibir o modificar el desarrollo, regulando eventos fisiológicos. Se encuentran en todas las partes de la planta, aunque se concentran donde se requiere mayor demanda. A continuación vea su clasificación:
     
-    .bg_22.p-4.mb-5
+    .bg_22.p-4.mb-5.m-esp
       SlyderA(tipo="b")(data-aos="fade-right")
         .row.justify-content-center.align-items-center
           .col-11.col-lg-5.mb-4.mb-md-0
