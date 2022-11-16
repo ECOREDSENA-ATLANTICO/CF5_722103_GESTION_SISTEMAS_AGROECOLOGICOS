@@ -21,7 +21,7 @@
       h2 4.1 Fotosíntesis y respiración vegetal
       
     p Dentro del proceso de fotosíntesis la energía solar juega un papel fundamental, ya que mediante su transformación a energía química los organismos autótrofos obtienen la energía y los nutrientes necesarios para su desarrollo. 
-    p.mb-5 La <b>fotosíntesis</b> la <b>respiración</b> son procesos complementarios a continuación se muestra el proceso: 
+    p.mb-5 La <b>fotosíntesis</b> y la <b>respiración</b> son procesos complementarios a continuación se muestra el proceso: 
 
     .row.justify-content-center.mb-5
       .col-12.col-lg-8(data-aos="fade-down-right")
@@ -47,13 +47,13 @@
           .col-lg-6.col-md-8.col-9
             h3.mt-2(data-aos="fade-right") El dióxido de carbono 
         
-        p se encuentra en la atmósfera, de donde se traslada por difusión a través del ostiolo hasta las paredes del mesófilo y desde allí se traslada a los cloroplastos, en donde finalmente se lleva a cabo el proceso de fotosíntesis.
+        p Se encuentra en la atmósfera, de donde se traslada por difusión a través del ostiolo hasta las paredes del mesófilo y desde allí se traslada a los cloroplastos, en donde finalmente se lleva a cabo el proceso de fotosíntesis.
         p Las moléculas de clorofila están ubicadas en las membranas tilacoides, siendo así que la clorofila (pigmento verde en las hojas) captura la luz solar, además las venas de la planta son las encargadas de transportar el agua desde la raíz hasta las hojas y el dióxido de carbono necesario, en el proceso entra a las hojas por el aire a través de los estomas, para finalmente modificar la savia bruta en savia elaborada, para alimentar la planta.
         .cajon.br_31.p-4
           p.mb-0 Para que ocurra la  fotosíntesis es indispensable la luz solar, por ende se considera un proceso endotérmico (precisa de energía), además es importante regular el agua en la planta, pues cuando la planta está deshidratada cierra los estomas para evitar agotar las reservas, obstaculizando el proceso de fotosíntesis.
     
     p Por otro lado, en el proceso de la respiración el oxígeno y la glucosa se transforman en dióxido de carbono y agua, la planta no necesita de luz solar de manera constante, por lo que es un proceso continuo y exotérmico.
-    p Cuando no hay presencia de energía solar, esta se obtiene de reservas energéticas de la planta, las cuales se componen en su mayoría por almidón, para el aprovechamiento de dicha energía se dividen las moléculas compuestas de glucosa, luego se trasladan al interior de las células en donde se convierten en moléculas orgánicas. las cuales penetran en las mitocondrias, en donde se desarrolla el proceso de respiración.
+    p Cuando no hay presencia de energía solar, esta se obtiene de reservas energéticas de la planta, las cuales se componen en su mayoría por almidón, para el aprovechamiento de dicha energía se dividen las moléculas compuestas de glucosa, luego se trasladan al interior de las células en donde se convierten en moléculas orgánicas, las cuales penetran en las mitocondrias, en donde se desarrolla el proceso de respiración.
 
     separador
 

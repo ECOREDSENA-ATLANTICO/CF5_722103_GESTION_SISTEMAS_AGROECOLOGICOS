@@ -28,7 +28,7 @@
             .col-auto.mb-4.mb-lg-0
               img.img-t.mx-auto(src='@/assets/curso/tema3/img03.svg', alt='')
             .col-lg-9.col-md-8.col-xl-8.col-xxl-9
-              p.m-0 La célula vegetal está compuesta por los siguientes componentes celulares, los cuales cumplen fun ciones específicas dentro de la misma:
+              p.m-0 La célula vegetal está compuesta por los siguientes componentes celulares, los cuales cumplen funciones específicas dentro de la misma:
       .col-lg-5(data-aos="fade-left")
         figure
           img.img-t.m-auto(src='@/assets/curso/tema2/img03.png', alt='')
@@ -44,87 +44,87 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Tabla 1. 
+          h5 Tabla 2. 
           span <em>Organelos celulares</em>
             
         table(data-aos="fade-down-right")
           thead
             tr
-              td.h4.bg_color1.text-center(colspan="3") ORGANELO
+              td.h4.bg_color1.text-center(colspan="4") ORGANELO
               td.h4.bg_color2.text-center(colspan="7") FUNCIÓN
           tbody
             tr
-              td(colspan="3") Protoplasto
+              td(colspan="4") Protoplasto
               td(colspan="7") Componentes que se encuentran dentro de la pared celular.
               
             tr
-              td(colspan="3") Protoplasma
+              td(colspan="4") Protoplasma
               td(colspan="7") Parte viva de la célula compuesta por el núcleo y el citoplasma.
               
             tr
-              td(colspan="3") Citoplasma
+              td(colspan="4") Citoplasma
               td(colspan="7") Contenido celular ubicado entre el núcleo y la pared celular (aguas, sustancias orgánicas, proteínas, lípidos, sales, organelos y otros compuestos).
               
             tr
-              td(colspan="3") Membrana citoplasmática
+              td(colspan="4") Membrana citoplasmática
               td(colspan="7") Formada por sustancias ergásticas y es la encargada de permitir la entrada y salida de sustancias.
               
             tr
-              td(colspan="3") Plastidios
+              td(colspan="4") Plastidios
               td(colspan="7") Se forman por los plastidios a partir de protoplastos que se encuentran en los tejidos meristemáticos.
               
             tr
-              td(colspan="3") Leucoplastos
+              td(colspan="4") Leucoplastos
               td(colspan="7") Indecorosas, no están expuestas a la luz (por ejemplo, órganos subterráneos) y almacenan almidón y aceites.
               
             tr
-              td(colspan="3") Cloroplastos
+              td(colspan="4") Cloroplastos
               td(colspan="7") Estructuras celulares de forma discoidal.
 
             tr
-              td(colspan="3") Cromoplasto
+              td(colspan="4") Cromoplasto
               td(colspan="7") Estructuras celulares de forma triangular, elíptica, esferoidal, que se desarrollan a partir de los leucoplastos.
               
             tr
-              td(colspan="3") Mitocondria	
+              td(colspan="4") Mitocondria	
               td(colspan="7") Se encarga del proceso de respiración aeróbica.
               
             tr
-              td(colspan="3") Retículo endoplasmático
+              td(colspan="4") Retículo endoplasmático
               td(colspan="7") Se encarga de transportar las sustancias por toda la célula y posibilitar las reacciones químicas.
               
             tr
-              td(colspan="3") Dictiosoma
+              td(colspan="4") Dictiosoma
               td(colspan="7") Sintetiza polisacáridos, hemicelulosa y pectina.
               
             tr
-              td(colspan="3") Ribosoma
+              td(colspan="4") Ribosoma
               td(colspan="7") Síntesis de proteínas.
               
             tr
-              td(colspan="3") Núcleo
+              td(colspan="4") Núcleo
               td(colspan="7") Regula el metabolismo celular.
               
             tr
-              td(colspan="3") Envoltura nuclear
+              td(colspan="4") Envoltura nuclear
               td(colspan="7") Permite la comunicación entre el interior del núcleo y el citoplasma.
             
             tr
-              td(colspan="3") Cromatina
+              td(colspan="4") Cromatina
               td(colspan="7") Complejo ADN y proteínico.
               
             tr
-              td(colspan="3") Nucléolo
+              td(colspan="4") Nucléolo
               td(colspan="7") En él se fabrica el ARN ribosomal.
               
             tr
-              td(colspan="3") Pared celular
+              td(colspan="4") Pared celular
               td(colspan="7") Le brinda resistencia y forma a la célula.
                               
     .row.justify-content-center.mb-4
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 8. 
+          h5 Figura 7. 
           span <em>Estructura de una célula vegetal eucariota</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img06.svg', alt='')
@@ -204,7 +204,7 @@
     .row.justify-content-center.mb-4
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 9. 
+          h5 Figura 8. 
           span <em>Estructura del cuerpo de las plantas Dicotiledónea y Monocotiledónea</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img14.png', alt='')
@@ -215,7 +215,7 @@
       .row.justify-content-center
         .col-lg-10
           .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-            h5 Figura 10. 
+            h5 Figura 9. 
             span <em>La raíz</em>    
           figure.mb-4(data-aos="fade-down-right")
             img.img-t.m-auto(src='@/assets/curso/tema3/img15.svg', alt='')
@@ -226,31 +226,31 @@
     .row.justify-content-center.mb-4
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 11. 
+          h5 Figura 10. 
           span <em>Raíces según el origen: principales, secundarias y raíces adventicias</em>    
         .row.justify-content-center.mb-5
           .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
             figure
             img.img-t.m-auto(src='@/assets/curso/tema3/img16.png', alt='')
             .bg_color3.p-3
-              p.m-0.text-center.text-bold Raiz principal 
+              p.m-0.text-center.text-bold Raíz principal 
           .col-lg-4.mb-4.mb-lg-0(data-aos="fade-up")
             figure
             img.img-t.m-auto(src='@/assets/curso/tema3/img17.png', alt='')
             .bg_color3.p-3
-              p.m-0.text-center.text-bold Raiz secundaria 
+              p.m-0.text-center.text-bold Raíz secundaria 
           .col-lg-4(data-aos="fade-left")
             figure
             img.img-t.m-auto(src='@/assets/curso/tema3/img18.png', alt='')
             .bg_color3.p-3
-              p.m-0.text-center.text-bold Raiz adventicia 
+              p.m-0.text-center.text-bold Raíz adventicia 
 
     p.mb-5 Morfológicamente se encuentran: raíces pivotantes, fibrosas, modificadas, neumatóforos, zancos, adherentes, columnares, tabulares, chupadores. Ver figuras.
 
     .row.justify-content-center.mb-4
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 12. 
+          h5 Figura 11. 
           span <em>Tipos de raíces según la morfología: A. pivotante (dicotiledónea) y B. fibrosa (monocotiledónea)</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img19.png', alt='')
@@ -261,7 +261,7 @@
     .row.justify-content-center.mb-4
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 13. 
+          h5 Figura 12. 
           span <em>Raíces carnosas</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img20.png', alt='')
@@ -272,7 +272,7 @@
     .row.justify-content-center.mb-4
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 14. 
+          h5 Figura 13. 
           span <em>Raíces modificadas</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img21.png', alt='')
@@ -355,7 +355,7 @@
         figure
           img.img-t.m-auto(src='@/assets/curso/tema3/img32.png', alt='')
         .bg_color4.p-3
-          p.m-0.text-center.text-bold Tallos subterraneos
+          p.m-0.text-center.text-bold Tallos subterráneos
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-up")
         figure
           img.img-t.m-auto(src='@/assets/curso/tema3/img33.png', alt='')
@@ -437,7 +437,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 17. 
+          h5 Figura 14. 
           span <em>Tipos de hoja según la forma</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img39.png', alt='')
@@ -450,7 +450,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 18. 
+          h5 Figura 15. 
           span <em>Tipos de hoja según el peciolo</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img46.png', alt='')
@@ -461,7 +461,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 19. 
+          h5 Figura 16. 
           span <em>Tipos de hoja según la complejidad</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img41.png', alt='')
@@ -495,7 +495,7 @@
       .row.justify-content-center.mb-4
         .col-lg-10
           .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-            h5 Figura 20. 
+            h5 Figura 17. 
             span <em>Estructura de una flor típica</em>    
           figure(data-aos="fade-down-right")
             img.img-t.m-auto(src='@/assets/curso/tema3/img44.png', alt='')
@@ -511,7 +511,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 21. 
+          h5 Figura 18. 
           span <em>Inflorescencia racimoides</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img45.png', alt='')
@@ -531,7 +531,7 @@
       .row.justify-content-around.align-items-center
         .col-lg-7.col-xl-8.col-xxl-7.mt-4.mb-4.mb-lg-0(data-aos="fade-right")
           p.ms-3 Es el ovario desarrollado, maduro y contiene las semillas. Compuesto por epicarpio, mesocarpio, endocarpio; se clasifica en simples (un solo ovario), los cuales son carnosos o secos y los compuestos (varios ovarios).
-          p.m-0.ms-3 Los frutos simples secos se subdividen en dehiscentes (el fruto se abre solo, dejando libre las semillas pixidio y cápsulas), por ejemplo, legumbre, folículo, silicua, pixidio y cápsula e indehiscentes (cuando el pericarpio se descompone las semillas quedan libres), por ejemplo,aquenio, nuez, cariópside, cipsela, lomento y samará. Ver figura.
+          p.m-0.ms-3 Los frutos simples secos se subdividen en dehiscentes (el fruto se abre solo, dejando libre las semillas pixidio y cápsulas), por ejemplo, legumbre, folículo, silicua, pixidio y cápsula e indehiscentes (cuando el pericarpio se descompone las semillas quedan libres), por ejemplo, aquenio, nuez, cariópside, cipsela, lomento y samará. Ver figura.
         .col-lg-5.col-xl-4.col-xxl-5.mb-4(data-aos="fade-left")
           figure
             img.img-t.m-auto(src='@/assets/curso/tema3/img47.svg', alt='') 
@@ -539,7 +539,7 @@
     .row.justify-content-center.mb-5.mt-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 22. 
+          h5 Figura 19. 
           span <em>Frutos simples carnosos: bayas</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img47.png', alt='')
@@ -550,7 +550,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 23. 
+          h5 Figura 20. 
           span <em>Frutos simples carnosos: hesperidios, pepónides, pomo</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img48.png', alt='')
@@ -579,7 +579,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 24. 
+          h5 Figura 21. 
           span <em>Estructura externa e interna de una semilla de frijol</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img50.png', alt='')
@@ -590,7 +590,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 25. 
+          h5 Figura 22. 
           span <em>Semillas dicotiledóneas</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img51.png', alt='')
@@ -604,7 +604,7 @@
     .row.justify-content-center.mb-5.mt-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 26. 
+          h5 Figura 23. 
           span <em>Estructura externa e interna del fruto-semilla del maíz</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img52.png', alt='')
@@ -614,7 +614,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 27. 
+          h5 Figura 24. 
           span <em>Semillas monocotiledóneas</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img53.png', alt='')

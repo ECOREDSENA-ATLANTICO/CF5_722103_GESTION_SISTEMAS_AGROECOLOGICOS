@@ -109,7 +109,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
-          h5 Figura 28. 
+          h5 Figura 25. 
           span <em>Material vegetal de propagación</em>
         figure(data-aos="fade-down-right")
           img.img-t.mx-auto.mb-3(src='@/assets/curso/tema5/img5.svg', alt='')
