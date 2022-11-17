@@ -58,18 +58,20 @@
                 .row                    
                   .col-lg-12
                     p.m-0.text-bold Tipos biológicos
-                    p.m-0  En el proceso de adaptación y convergencia a diversos ambientes y climas las plantas desarrollan caracteres externos a nivel estructural y morfológico (biotipos), entre los que se encuentran fanerófitos, caméfitos, hemicriptófitos, criptófitos.
+                    p.m-0 En el proceso de adaptación y convergencia a diversos ambientes y climas las plantas desarrollan caracteres externos a nivel estructural y morfológico (biotipos), entre los que se encuentran fanerófitos, caméfitos, hemicriptófitos, criptófitos.
 
               .tarjeta.bg_9.p-4(x="37.4%" y="87.2%" numero="6")
                 .row                    
                   .col-lg-12
-                    p.m-0.text-bold Regiones Florísticas                        
-
+                    p.m-0.text-bold Regiones Florísticas 
+                    p.m-0 Se genera endemismo a nivel de familia y género (región ártica, eurosiberiana, región mediterránea, región centroasiática).
+                    
               .tarjeta.bg_10.p-4(x="81.5%" y="90.5%" numero="7")
                 .row                    
                   .col-lg-12
-                    p.m-0.text-bold Reinos Florísticos                        
-
+                    p.m-0.text-bold Reinos Florísticos
+                    p.m-0 Territorios amplios en donde se dan endemismos a nivel de orden y familia (reino holártico, reino paleotropical, reino neotropical, reino capense, reino australiano, reino antártico).
+                        
       .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
         h5 Figura 1.
         span <em>Formas biológicas</em>
