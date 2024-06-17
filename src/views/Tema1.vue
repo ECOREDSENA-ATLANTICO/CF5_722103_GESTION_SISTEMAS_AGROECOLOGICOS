@@ -101,7 +101,7 @@
         img.img-t.m-auto(src='@/assets/curso/tema1/img06.svg', alt='')
       .col-lg-10(data-aos="fade-left")
         p La botánica cumple funciones primordiales que contribuyen al desarrollo ambiental, social y económico, pues su estudio permite comprender la evolución de la vida en la Tierra.
-        p Vea a continuación los diversos factores que facilitaron su desarrollo y progreso. 
+        p A continuación los diversos factores que facilitaron su desarrollo y progreso. 
 
     figure
     .video

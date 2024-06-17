@@ -66,7 +66,7 @@
           figure
             img.img-t.m-auto(src='@/assets/curso/tema4/img7.png', alt='') 
         .col-lg-7.col-xl-8.col-xxl-7.mt-3(data-aos="fade-right")
-          p.m-0 Las fitohormonas son compuestos naturales producidos en las plantas y se encargan de estimular, inhibir o modificar el desarrollo, regulando eventos fisiológicos. Se encuentran en todas las partes de la planta, aunque se concentran donde se requiere mayor demanda. A continuación vea su clasificación:
+          p.m-0 Las fitohormonas son compuestos naturales producidos en las plantas y se encargan de estimular, inhibir o modificar el desarrollo, regulando eventos fisiológicos. Se encuentran en todas las partes de la planta, aunque se concentran donde se requiere mayor demanda. A continuación la clasificación:
     
     .bg_22.p-4.mb-5.m-esp
       SlyderA(tipo="b")(data-aos="fade-right")

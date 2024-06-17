@@ -141,7 +141,7 @@
         .row.justify-content-center.align-items-center
           .col-11.col-lg-5.mb-4.mb-md-0
             h4.mb-4 TEJIDO MERISTEMO
-            p Meristemo, son considerados tejidos embrionarios, persisten en la planta durante toda su vida  y se encarga del crecimiento permanente de la planta y se dividen en ápices, brotes, raíces y meristemos laterales. Se encuentran en las partes apicales (yemas y ápices de las raíces.               
+            p Meristemo, son considerados tejidos embrionarios, persisten en la planta durante toda su vida  y se encarga del crecimiento permanente de la planta y se dividen en ápices, brotes, raíces y meristemos laterales. Se encuentran en las partes apicales (yemas y ápices de las raíces).               
           .col-11.col-lg-5.mt-0.mt-md-4
             figure
               img(src='@/assets/curso/tema3/img07.png', alt='Texto que describa la imagen')
@@ -199,7 +199,7 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
         h2 3.3 Anatomía y morfología de las plantas
 
-    p.mb-5 El cuerpo de una planta está estructurado por dos sistemas: el caulinar y el radical. Ver figura.
+    p.mb-5 El cuerpo de una planta está estructurado por dos sistemas: el caulinar y el radical. A continuación en la siguiente figura.
 
     .row.justify-content-center.mb-4
       .col-lg-8
@@ -211,7 +211,7 @@
         figcaption.ms-2 Nota. Tomado de Anatomía y morfología vegetal (2019).
 
     .bg_23.p-5.mb-4
-      p.mb-4 <b>El sistema radical</b> comprende la raíz y sus ramificaciones. Ver figura.
+      p.mb-4 <b>El sistema radical</b> comprende la raíz y sus ramificaciones. A continuación en la siguiente figura.
       .row.justify-content-center
         .col-lg-10
           .titulo-sexto.color-acento-contenido(data-aos="fade-right")
@@ -221,7 +221,7 @@
             img.img-t.m-auto(src='@/assets/curso/tema3/img15.svg', alt='')
           figcaption.mx-lg-5 Nota. Tomado de Anatomía y morfología vegetal (2019).
 
-    p.mb-5 Las raíces se clasifican según su origen en: raíz principal, raíz secundaría y raíz adventista. Ver figura.
+    p.mb-5 Las raíces se clasifican según su origen en: raíz principal, raíz secundaría y raíz adventista. A continuación en la figura.
 
     .row.justify-content-center.mb-4
       .col-lg-10
@@ -244,8 +244,10 @@
             img.img-t.m-auto(src='@/assets/curso/tema3/img18.png', alt='')
             .bg_color3.p-3
               p.m-0.text-center.text-bold Raíz adventicia 
+          figure.mt-3
+            figcaption Nota. Tomado de Anatomía y morfología vegetal(2019). 
 
-    p.mb-5 Morfológicamente se encuentran: raíces pivotantes, fibrosas, modificadas, neumatóforos, zancos, adherentes, columnares, tabulares, chupadores. Ver figuras.
+    p.mb-5 Morfológicamente se encuentran: raíces pivotantes, fibrosas, modificadas, neumatóforos, zancos, adherentes, columnares, tabulares, chupadores.  A continuación en las figuras.
 
     .row.justify-content-center.mb-4
       .col-lg-8
@@ -288,7 +290,7 @@
           figure
             img.img-t.m-auto(src='@/assets/curso/tema3/img23.png', alt='') 
         .col-lg-7.col-xl-8.col-xxl-7.mt-4(data-aos="fade-right")
-          p.m-0 Las raíces sirven como sostén de la planta, permiten la absorción de nutrientes, la conducción de sustancias, ayudan a la reproducción vegetativa y además contribuyen al almacenamiento de sustancias de reserva. También pueden ser utilizadas como alimento, en la industria y en la medicina. Vea a continuación cómo está compuesto <b>el sistema caulinar</b> y cómo se clasifican los diferentes tallos:
+          p.m-0 Las raíces sirven como sostén de la planta, permiten la absorción de nutrientes, la conducción de sustancias, ayudan a la reproducción vegetativa y además contribuyen al almacenamiento de sustancias de reserva. También pueden ser utilizadas como alimento, en la industria y en la medicina. Se detalla continuación cómo está compuesto <b>el sistema caulinar</b> y cómo se clasifican los diferentes tallos:
 
     p.mb-5.img-esp <b>El sistema caulinar</b>, este comprende el tallo, las ramas y las hojas de la planta. 
 
@@ -389,7 +391,7 @@
           .tarjeta-up__content.color-primario.p-2
             h3.m-0.mt-1.text-center Según modificaciones
             p.text-center Estolón, rizoma, tubérculo, bulbo, crono, bulbillo, cladodio, espinas.
-
+      
     .bg_color5.p-3.mb-5
       .row.justify-content-around.align-items-center
         .col-lg-2(data-aos="fade-right")
@@ -485,8 +487,8 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7(data-aos="fade-right")
-        p Conformada por un conjunto de antófilos que se desarrollan de una yema axilar floral. La cual está compuesta por el pedúnculo, el cáliz, la corola (conjunto de pétalos, androceo -estambres- y gineceo -pistilo-). 
-        p Una flor completa es bisexual o hermafrodita, si le falta algún ciclo sexual es unisexual o incompleta, si en la misma planta existen flores estaminadas y pistiladas por separado se denominan monoicas (maíz), pero si las flores femeninas y masculinas están en diferentes plantas de la misma especie se llaman dioicas (sauce y mariguana), también existen casos donde las flores son unisexuales y bisexuales en la misma planta o en diferente (papayo) y son las polígamas. Ver figura.
+        p Conformada por un conjunto de antófilos que se desarrollan de una yema axilar floral. La cual está compuesta por el pedúnculo, el cáliz, la corola (conjunto de pétalos, androceo estambres y gineceo pistilo). 
+        p Una flor completa es bisexual o hermafrodita, si le falta algún ciclo sexual es unisexual o incompleta, si en la misma planta existen flores estaminadas y pistiladas por separado se denominan monoicas (maíz), pero si las flores femeninas y masculinas están en diferentes plantas de la misma especie se llaman dioicas (sauce y mariguana), también existen casos donde las flores son unisexuales y bisexuales en la misma planta o en diferente (papayo) y son las polígamas. A continuación en la siguiente figura.
       .col-lg-5(data-aos="fade-left")
         figure.mb-5
           img.img-t.m-auto(src='@/assets/curso/tema3/img43.png', alt='') 
@@ -506,7 +508,7 @@
       .col-lg-6.col-md-8.col-8
         h3.mt-2(data-aos="fade-right") Inflorescencias
 
-    p.mb-5 Las flores se agrupan según la inflorescencia, cuando hay una sola flor y está separada por hojas se considera simple y cuando hay dos o más flores se considera compuesta. A su vez, las compuestas se dividen en racimosas o indefinidas y cimosas o definidas. Las inflorescencias racimosas pueden ser racimosos, picoides y amiloides, y, las inflorescencias racimoides son racimo, panoja o panícula y corimbo. Ver figura.
+    p.mb-5 Las flores se agrupan según la inflorescencia, cuando hay una sola flor y está separada por hojas se considera simple y cuando hay dos o más flores se considera compuesta. A su vez, las compuestas se dividen en racimosas o indefinidas y cimosas o definidas. Las inflorescencias racimosas pueden ser racimosos, picoides y amiloides, y, las inflorescencias racimoides son racimo, panoja o panícula y corimbo. Se detalla en la siguiente figura.
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -574,7 +576,7 @@
           p Es un óvulo fecundado y maduro que reproduce sexualmente a la planta, en ella se encuentra un embrión a partir del cual se desarrolla una planta nueva. Cuenta con embrión, tejidos de almacenamiento y cubiertas o testas.
           p Existen varios tamaños, desde microscópicos (semilla de orquídeas) hasta de gran tamaño como el coco.
           p La semilla tiene diferentes estructuras según sus características desde dicotiledóneas hasta monocotiledóneas. 
-          p Las semillas dicotiledóneas tienen envoltura externa que protege a la semilla (tegumento), la cual cuenta con dos capas conocidas como testa y tegmen, además cuenta con hilo, micrópilo, embrión, endospermo. Ver figura.
+          p Las semillas dicotiledóneas tienen envoltura externa que protege a la semilla (tegumento), la cual cuenta con dos capas conocidas como testa y tegmen, además cuenta con hilo, micrópilo, embrión, endospermo. Se detalla en la siguiente figura.
 
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -599,7 +601,7 @@
             figcaption.me-1 Nota. Tomado de Anatomía y morfología vegetal (2019).
     
     span.text-bold Semillas monocotiledóneas, 
-    span las cuales tienen un solo cotiledón, cuentan con endospermo, coleoptilo, coleorriza, cotiledón. Ver figura.
+    span las cuales tienen un solo cotiledón, cuentan con endospermo, coleoptilo, coleorriza, cotiledón. A continuación en la siguiente figura.
 
     .row.justify-content-center.mb-5.mt-5
       .col-lg-8

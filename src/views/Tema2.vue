@@ -49,7 +49,7 @@
             img.img-t.mx-auto(src='@/assets/curso/tema2/img04.png', alt='')
         .col-lg-7.col-xl-8.col-xxl-7(data-aos="fade-left")
           p Hace referencia a las bacterias, algas, hongos y asociaciones entre hongos y organismos fotosintéticos (algas o cianobacterias) encontrando:
-          p <b>Algas</b>, organismos unicelulares o pluricelulares, que en su mayoría son fotosintéticas (poseen cloroplastos), habitan en ambientes húmedos y dentro de ellas se distinguen las algas verdes, pardas y rojas. Ver figura.
+          p <b>Algas</b>, organismos unicelulares o pluricelulares, que en su mayoría son fotosintéticas (poseen cloroplastos), habitan en ambientes húmedos y dentro de ellas se distinguen las algas verdes, pardas y rojas. Se detalla en la siguiente figura.
 
     .row.justify-content-center.mb-4
       .col-lg-10
@@ -80,7 +80,7 @@
               p.mb_2 Son importantes para la industria del agar.
               img.img-t.mx-auto(src='@/assets/curso/tema2/img07.png', alt='')
 
-    p.mb-4 <b>Hongos,</b> son eucariotas y se clasifican dentro de las plantas, no tienen tejidos, no forman semillas, pero sí forman esporas y órganos reproductores; se consideran benéficos porque son utilizados en la industria y perjudiciales porque causan enfermedades en las plantas y los animales. Ver figura.
+    p.mb-4 <b>Hongos,</b> son eucariotas y se clasifican dentro de las plantas, no tienen tejidos, no forman semillas, pero sí forman esporas y órganos reproductores; se consideran benéficos porque son utilizados en la industria y perjudiciales porque causan enfermedades en las plantas y los animales. A continuación se detalla en la siguiente figura.
 
     .row.justify-content-center
       .col-lg-6
@@ -130,7 +130,7 @@
             figure
               img.img-t.mx-auto(src='@/assets/curso/tema2/img14.png', alt='')     
 
-    p.mb-4 <b>Líquenes,</b> asociaciones vivas entre un hongo (micobionte) y del socio fotosintético (alga o cianobacteria - fotobionte). Ver figura.
+    p.mb-4 <b>Líquenes,</b> asociaciones vivas entre un hongo (micobionte) y del socio fotosintético (alga o cianobacteria - fotobionte). A continuación se detalla en la siguiente figura.
 
     .row.justify-content-center
       .col-lg-8
@@ -195,21 +195,21 @@
           h5 Figura 6.
           span <em>Plantas hepáticas y musgos</em>
     
-    .row.mb-3(data-aos="fade-right")
+    .row.mb-3.justify-content-center.align-items-center.align-items-stretch(data-aos="fade-right")
       .col-lg-5.mb-4.mb-lg-0
-        img.img-t.mx-auto(src='@/assets/curso/tema2/img16.png', alt='')
+        img.img-t2.mx-auto(src='@/assets/curso/tema2/img16.png', alt='')
       .col-lg-7
-        img.img-t.mx-auto(src='@/assets/curso/tema2/img17.png', alt='')
+        img.img-t2.mx-auto(src='@/assets/curso/tema2/img17.png', alt='')
     .row.mb-3(data-aos="fade-right")
       .col-lg-5.mb-4.mb-lg-0
-        img.img-t.mx-auto(src='@/assets/curso/tema2/img18.png', alt='')
+        img.img-t2.mx-auto(src='@/assets/curso/tema2/img18.png', alt='')
       .col-lg-6
-        img.img-t.mx-auto(src='@/assets/curso/tema2/img19.png', alt='')
+        img.img-t2.mx-auto(src='@/assets/curso/tema2/img19.png', alt='')
     .row.mb-3(data-aos="fade-right")
       .col-lg-5.mb-4.mb-lg-0
-        img.img-t.mx-auto(src='@/assets/curso/tema2/img20.png', alt='')
+        img.img-t2.mx-auto(src='@/assets/curso/tema2/img20.png', alt='')
       .col-lg-5
-        img.img-t.mx-auto(src='@/assets/curso/tema2/img21.png', alt='')
+        img.img-t2.mx-auto(src='@/assets/curso/tema2/img21.png', alt='')
     figcaption.ms-2 Nota. Tomado de Anatomía y morfología vegetal (2019). 
 
 </template>

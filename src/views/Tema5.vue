@@ -62,7 +62,7 @@
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
       h2 5.2 Asexual
     
-    p.mb-5 Casi siempre la nueva planta es genéticamente igual a su progenitor. Es la reproducción empleando partes de la planta original, hojas, ramas o tallos. Ver tabla.
+    p.mb-5 Casi siempre la nueva planta es genéticamente igual a su progenitor. Es la reproducción empleando partes de la planta original, hojas, ramas o tallos.  Se detalla en la siguiente tabla.
 
     .row.justify-content-center.mb-5
       .col-lg-8
