@@ -215,7 +215,7 @@ export default {
       referencia:
         'Alegría, W. (2016). <em>Texto básico para profesionales en ingeniería forestal en el área de fisiología vegetal.</em> Universidad Nacional de la Amazonia.',
       link:
-        'https://www.unapiquitos.edu.pe/pregrado/facultades/forestales/descargas/publicaciones/FISIO-TEX.pdf',
+        'https://www.uv.mx/personal/tcarmona/files/2019/02/Alegria-2016.pdf',
     },
     {
       referencia:
@@ -270,7 +270,7 @@ export default {
         'Universidad Nacional de la Amazonia. (2016). <em>Texto básico para profesionales en ingeniería forestal en el área de fisiología vegetal.</em> UNAP.',
       tipo: 'Libro',
       link:
-        'https://www.unapiquitos.edu.pe/pregrado/facultades/forestales/descargas/publicaciones/FISIO-TEX.pdf',
+        'https://www.uv.mx/personal/tcarmona/files/2019/02/Alegria-2016.pdf',
     },
     {
       tema: 'Nutrición y manejo nutricional',
@@ -278,7 +278,7 @@ export default {
         'Instituto internacional de la potasa, Basilea, Suiza. (2000). <em>Principios de nutrición vegetal.</em> Aulavirtual.agro.',
       tipo: 'Libro',
       link:
-        'https://aulavirtual.agro.unlp.edu.ar/pluginfile.php/66737/mod_resource/content/2/PRINCIPIOS%20DE%20NUTRICI%C3%93N%20VEGETAL.pdf',
+        'https://www.ipipotash.org/uploads/udocs/64-principios-de-nutricion-vegetal.pdf',
     },
     {
       tema: 'Propagación vegetal',
