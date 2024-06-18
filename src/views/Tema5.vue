@@ -29,7 +29,7 @@
       .col-12.col-lg-8(data-aos="fade-left")
         p Comprende el desarrollo de las estructuras masculinas (polen) y femeninas (saco embrionario) de la flor. Los gametos tanto femeninos como masculinos están contenidos en el saco embrionario y el polen respectivamente. Durante la floración, el polen se transfiere de la antera al estigma (polinización), en donde germina. Un tubo polínico crece hasta llegar al saco embrionario dentro del óvulo. En el saco embrionario son descargados dos gametos masculinos, uno que se une al gameto femenino (fecundación) para producir el embrión (cigoto), el cual cuenta con las mismas características genéticas de la planta y otro que se unirá a los dos núcleos polares para producir el tejido nutricional de reserva, conocido como endospermo.
         .cajon.br_31.p-4
-          p.mb-0 La selección de la semilla ha permitido al hombre propagar plantas de importancia alimentaria, medicinal e industrial. Dos tipos de plantas producen semillas, las gimnospermas (semillas desnudas) y angiospermas (óvulo y semilla se desarrollan dentro de un ovario). La vida de una semilla única comienza con la fecundación y el desarrollo de la planta madre hasta su germinación. Ver tabla.
+          p.mb-0 La selección de la semilla ha permitido al hombre propagar plantas de importancia alimentaria, medicinal e industrial. Dos tipos de plantas producen semillas, las gimnospermas (semillas desnudas) y angiospermas (óvulo y semilla se desarrollan dentro de un ovario). La vida de una semilla única comienza con la fecundación y el desarrollo de la planta madre hasta su germinación. A continuación en la siguiente tabla.
     
     .row.justify-content-center.mb-5
       .col-lg-8

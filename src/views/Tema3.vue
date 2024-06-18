@@ -128,6 +128,7 @@
           span <em>Estructura de una célula vegetal eucariota</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img06.svg', alt='')
+        figcaption Nota. https://cienciaybiologia.com/wp-content/uploads/2020/09/celula-vegetal.png
 
     Separador
 
@@ -533,7 +534,7 @@
       .row.justify-content-around.align-items-center
         .col-lg-7.col-xl-8.col-xxl-7.mt-4.mb-4.mb-lg-0(data-aos="fade-right")
           p.ms-3 Es el ovario desarrollado, maduro y contiene las semillas. Compuesto por epicarpio, mesocarpio, endocarpio; se clasifica en simples (un solo ovario), los cuales son carnosos o secos y los compuestos (varios ovarios).
-          p.m-0.ms-3 Los frutos simples secos se subdividen en dehiscentes (el fruto se abre solo, dejando libre las semillas pixidio y cápsulas), por ejemplo, legumbre, folículo, silicua, pixidio y cápsula e indehiscentes (cuando el pericarpio se descompone las semillas quedan libres), por ejemplo, aquenio, nuez, cariópside, cipsela, lomento y samará. Ver figura.
+          p.m-0.ms-3 Los frutos simples secos se subdividen en dehiscentes (el fruto se abre solo, dejando libre las semillas pixidio y cápsulas), por ejemplo, legumbre, folículo, silicua, pixidio y cápsula e indehiscentes (cuando el pericarpio se descompone las semillas quedan libres), por ejemplo, aquenio, nuez, cariópside, cipsela, lomento y samará. A continuación en la siguiente figura.
         .col-lg-5.col-xl-4.col-xxl-5.mb-4(data-aos="fade-left")
           figure
             img.img-t.m-auto(src='@/assets/curso/tema3/img47.svg', alt='') 
