@@ -151,7 +151,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
-          h5 Figura 6.
+          h5 Tabla 1.
           span <em>División del subreino Embryobionta</em>
         .row.justify-content-center.mb-4.mb-lg-0(data-aos="fade-down")
           .col-lg-4.col-md-11.col-10.mb-5.mb-lg-0
