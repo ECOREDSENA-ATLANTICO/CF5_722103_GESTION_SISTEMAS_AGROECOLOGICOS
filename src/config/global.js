@@ -316,7 +316,7 @@ export default {
         {
           nombre: 'Paola Andrea Quintero Aguilar',
           cargo: 'Diseño instruccional',
-          centro: 'Centro de Gestión Industrial - Regional Bogotá ',
+          centro: 'Centro de Gestión Industrial - Regional Santander',
         },
         {
           nombre: 'Carolina Coca Salazar',

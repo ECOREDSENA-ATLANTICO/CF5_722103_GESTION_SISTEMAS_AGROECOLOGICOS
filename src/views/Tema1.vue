@@ -83,7 +83,7 @@
               .col-lg-5.col-md-5.col-xl-6.col-xxl-5.bg_11.py-2
                 h3.text-center.m-0 Época favorable
             figure(data-aos="fade-right")
-              img(src='@/assets/curso/tema1/img04.svg', alt='')
+              img(src='@/assets/curso/tema1/img04.svg', alt='Formas biológicas:Época favorable: fenerófito, caméfitos, hemicriptófitos, geófitos, terófito. Época desfavorable: fanerófitoca,éfitos, hemicriptófitos, geófitos y terófito.')
           .col-lg-6
             .row.justify-content-center.mb-4
               .col-lg-5.col-md-5.bg_11-0.py-2
@@ -101,7 +101,7 @@
         img.img-t.m-auto(src='@/assets/curso/tema1/img06.svg', alt='')
       .col-lg-10(data-aos="fade-left")
         p La botánica cumple funciones primordiales que contribuyen al desarrollo ambiental, social y económico, pues su estudio permite comprender la evolución de la vida en la Tierra.
-        p A continuación los diversos factores que facilitaron su desarrollo y progreso. 
+        p A continuación, los diversos factores que facilitaron su desarrollo y progreso. 
 
     figure
     .video

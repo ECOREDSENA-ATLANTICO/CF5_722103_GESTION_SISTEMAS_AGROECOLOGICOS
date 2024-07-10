@@ -45,16 +45,16 @@
               td.h4.bg_color2.text-center Angiospermas
           tbody
             tr
-              td Semillas desnudas
+              td Semillas desnudas.
               td Óvulo y semilla dentro de un ovario.
             tr
-              td Se producen estróbilos
+              td Se producen estróbilos.
               td Órganos reproductores ubicados en la flor.
             tr
-              td Formadas por embrión y tejido de reserva (gametofito femenino)
+              td Formadas por embrión y tejido de reserva (gametofito femenino).
               td Pueden ser hermafroditas o flor estaminada.
             tr
-              td Polinización por viento
+              td Polinización por viento.
               td Puede darse por esporogénesis masculina, esporogénesis femenina, polinización, fertilización, embriología y semilla.
     
     separador
@@ -78,26 +78,26 @@
               td.h4.bg_color2.text-center Reproducción asexual
           tbody
             tr
-              td Semillas propiamente dichas
-              td Material vegetativo
+              td Semillas propiamente dichas.
+              td Material vegetativo.
             tr
-              td La semilla proviene del fruto (flor)
-              td Puede provenir de cualquier parte de la planta
+              td La semilla proviene del fruto (flor).
+              td Puede provenir de cualquier parte de la planta.
             tr
-              td Intervienen gametos
-              td No intervienen gametos
+              td Intervienen gametos.
+              td No intervienen gametos.
             tr
-              td Tienen características diferentes al progenitor 
-              td Características iguales al progenitor
+              td Tienen características diferentes al progenitor. 
+              td Características iguales al progenitor.
             tr
-              td Reproducción por gametos masculinos y femeninos
-              td La reproducción se da por un solo individuo de diferentes formas
+              td Reproducción por gametos masculinos y femeninos.
+              td La reproducción se da por un solo individuo de diferentes formas.
             tr
-              td Dos progenitores de dos sexos
-              td Un progenitor
+              td Dos progenitores de dos sexos.
+              td Un progenitor.
             tr
-              td Implica unión de células
-              td No implica unión de células
+              td Implica unión de células.
+              td No implica unión de células.
 
     separador
 
@@ -156,7 +156,7 @@
                 p.m-0 <b>Plantas bianuales,</b> plantas que requieren de dos años para completar su ciclo de vida. Ellas crecen y almacenan los productos elaborados  durante un periodo determinado y al año producen semillas.
               
               .tarjeta.bg_41.p-4(x="82.7%" y="59.5%" numero="+")
-                p.m-0 <b>Plantas perennes,</b> plantas de vida larga, las cuales viven más de dos años
+                p.m-0 <b>Plantas perennes,</b> plantas de vida larga, las cuales viven más de dos años.
 
     separador
 
@@ -189,7 +189,7 @@
           figure
             img.img-t.mb-5(src='@/assets/curso/tema5/img10.svg', alt='')
           h4 Laboratorios
-          p implementación de herramientas tecnológicas para los procesos de propagación <em>in situ</em> (clonación) bajo condiciones estériles, libres de virus y bacterias, permite generar genotipos deseados y obtención de altos volúmenes de plantas.
+          p Implementación de herramientas tecnológicas para los procesos de propagación <em>in situ</em> (clonación) bajo condiciones estériles, libres de virus y bacterias, permite generar genotipos deseados y obtención de altos volúmenes de plantas.
 
     p A la hora de realizar el proceso de propagación vegetal es importante tener en cuenta el tipo y los métodos de propagación, los medios de germinación (sustratos), la desinfección de los medios, las condiciones ambientales, el tipo de cultivo, el proceso de fertilización, el riego y la rastreabilidad del proceso, los materiales de propagación, los fertilizantes, la gestión de residuos, la salud y seguridad en el trabajo, es decir, tener en cuenta las normas vigentes que garanticen el éxito del proceso de propagación.
 

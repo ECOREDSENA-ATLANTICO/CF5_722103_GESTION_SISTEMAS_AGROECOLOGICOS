@@ -26,7 +26,7 @@
                     img.img-t.m-auto(src='@/assets/curso/tema2/img01.svg', alt='')
           .col-lg-6.border1.p-3(data-aos="fade-left")
             figure
-              img.img-t.m-auto(src='@/assets/curso/tema2/img02.svg', alt='')    
+              img.img-t.m-auto(src='@/assets/curso/tema2/img02.svg', alt='Muestra el sistema vegetal, que Se encarga de describir, identificar o clasificar y dar nombres a las plantas, teniendo en cuenta aspectos morfológicos, fisiológicos, citológicos, histológicos, fitoquímicos y filogenéticos. Los estudios sistempaticos comprenden tr4es áreas del conocimiento: taxonomía, filogenia y proceso de evaluación.')    
         figcaption Nota. Tomado de https://prezi.com/p/zkoheyf_dbdg/botanica-sistematica/
 
     .row.justify-content-center.align-items-center
@@ -64,7 +64,7 @@
             .bg_32.p-3
               p.m-0 Algas verdes unicelulares, multicelulares y filamentosas. 
               p Son utilizadas para la elaboración de alimentos.
-              img.img-t.mx-auto(src='@/assets/curso/tema2/img05.png', alt='')
+              img.img-t.mx-auto(src='@/assets/curso/tema2/img05.png', alt='Muestra los tipos de algas:- Clorofíceas: Algas verdes un unicelulares, multicelulares y filamentosas.Son utilizadas para la elaboración de alimentos.- Feofíceas: Algas pardas pluricelulares.Son utilizadas en la alimentación humana y como fertilizantes.- Rodofíceas: Algas rojas pluricelulares.Son importantes para la industria del agar.')
           .col-lg-4.col-md-8.col-10(data-aos="fade-up")
             .bg_20.p-3
               h4.text-center.m-0 FEOFÍCEAS
@@ -90,7 +90,7 @@
         .row.justify-content-center.mb-4(data-aos="fade-down-right")
           .col-lg-4.col-md-4.col-6.mb-4.mb-lg-0.mb-md-0.d-none.d-md-block.d-lg-block
             figure
-              img.img-t.mx-auto(src='@/assets/curso/tema2/img09.png', alt='')
+              img.img-t.mx-auto(src='@/assets/curso/tema2/img09.png', alt='Muestra, imágenes de los diferentes tipos de hongos.')
           .col-lg-4.col-md-4.col-6.mb-4.mb-lg-0.mb-md-0.d-none.d-md-block.d-lg-block
             figure
               img.img-t.mx-auto(src='@/assets/curso/tema2/img10.png', alt='')
@@ -138,7 +138,7 @@
           h5 Figura 5.
           span <em>Tipos de líquenes</em>
         figure.mb-3(data-aos="fade-down-right")
-          img.img-t.mx-auto(src='@/assets/curso/tema2/img15.png', alt='')
+          img.img-t.mx-auto(src='@/assets/curso/tema2/img15.png', alt='Muestra diferente tipos de imágenes de líquenes.')
         figcaption Nota. Tomado de Anatomía y morfología vegetal (2019). 
 
     Separador
@@ -197,7 +197,7 @@
     
     .row.mb-3.justify-content-center.align-items-center.align-items-stretch(data-aos="fade-right")
       .col-lg-5.mb-4.mb-lg-0
-        img.img-t2.mx-auto(src='@/assets/curso/tema2/img16.png', alt='')
+        img.img-t2.mx-auto(src='@/assets/curso/tema2/img16.png', alt='Muestra diferentes imágenes de Plantas hepáticas y musgos. Licopodios, equisetum, pinophyta-gimnospermas, dicotiledonea, monocotiledonea.')
       .col-lg-7
         img.img-t2.mx-auto(src='@/assets/curso/tema2/img17.png', alt='')
     .row.mb-3(data-aos="fade-right")

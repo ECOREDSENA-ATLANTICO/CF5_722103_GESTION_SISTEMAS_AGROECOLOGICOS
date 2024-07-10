@@ -10,7 +10,7 @@
     .bg_color7
       .row.justify-content-center.p-4.p-lg-0
         .col-12.col-lg-6.d-flex.align-items-center(data-aos="fade-right")
-          p.mt-3 Es la ciencia que permite estudiar el funcionamiento de la planta, comprender los fenómenos que ocurren en su interior, entre ellos, cómo se transporta el agua y los nutrientes a través de la raíz, tallo, hojas y el intercambio con la atmósfera, además de las distintas reacciones químicas que permiten transformar los nutrientes y el agua para el aprovechamiento de la planta. En sí la fisiología vegetal brinda herramientas para comprender el metabolismo de las plantas.
+          p.mt-3 Es la ciencia que permite estudiar el funcionamiento de la planta, comprender los fenómenos que ocurren en su interior, entre ellos, cómo se transporta el agua y los nutrientes a través de la raíz, tallo, hojas y el intercambio con la atmósfera, además de las distintas reacciones químicas que permiten transformar los nutrientes y el agua para el aprovechamiento de la planta. En sí, la fisiología vegetal brinda herramientas para comprender el metabolismo de las plantas.
         .col-12.col-lg-4(data-aos="fade-left")
           figure
             img.img-t.mx-auto(src='@/assets/curso/tema4/img1.png', alt='')
@@ -20,14 +20,18 @@
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
       h2 4.1 Fotosíntesis y respiración vegetal
       
-    p Dentro del proceso de fotosíntesis la energía solar juega un papel fundamental, ya que mediante su transformación a energía química los organismos autótrofos obtienen la energía y los nutrientes necesarios para su desarrollo. 
-    p.mb-5 La <b>fotosíntesis</b> y la <b>respiración</b> son procesos complementarios a continuación se muestra el proceso: 
+    p Dentro del proceso de fotosíntesis, la energía solar juega un papel fundamental, ya que mediante su transformación a energía química, los organismos autótrofos obtienen la energía y los nutrientes necesarios para su desarrollo. 
+    p.mb-5 La <b>fotosíntesis</b> y la <b>respiración</b> son procesos complementarios, a continuación se muestra el proceso: 
 
     .row.justify-content-center.mb-5
       .col-12.col-lg-8(data-aos="fade-down-right")
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 26. 
+          span <em>Fotosíntesis y respiración</em>
         figure
-          img.img-t.mx-auto(src='@/assets/curso/tema4/img4.png', alt='')
-    
+          img.img-t.mx-auto(src='@/assets/curso/tema4/img4.png', alt='Proceso de respiración  y fotosíntesis')
+          figcaption.mt-2 Nota: SENA (2021).
+          
     .row.mb-4
       .col-auto
         img(src='@/assets/curso/tema4/img5.svg', alt='')

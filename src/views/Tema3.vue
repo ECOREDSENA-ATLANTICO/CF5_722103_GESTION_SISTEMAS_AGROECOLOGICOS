@@ -36,8 +36,12 @@
     
     .row.justify-content-center.mb-5(data-aos="fade-down-right")
       .col-lg-12
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 7. 
+          span <em>Citología</em>
         figure
-          img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema3/img04.png', alt='')
+          img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema3/img04.png', alt='Muestra un mapa conceptual de citología, poniendo en primer lugar que la célula es la unidad estructural de todo ser vivo. segundo formas de células vegetales, tercero  en su gran mayoría tienen tamaño microscópico, cuarto estructura de la célula vegetal. Protoplasto: citoplasma y núcleo. Pared celular: lámina media, primaria, secundaria.')
+        figcaption.mt-2 Nota: SENA (2021).
         figure
           img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema3/img05.png', alt='')  
 
@@ -124,10 +128,10 @@
     .row.justify-content-center.mb-4
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 7. 
+          h5 Figura 8. 
           span <em>Estructura de una célula vegetal eucariota</em>    
         figure(data-aos="fade-down-right")
-          img.img-t.m-auto(src='@/assets/curso/tema3/img06.svg', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema3/img06.svg', alt='Muestra una célula vegetal eucariota con cada una de sus partes, plasmodesmos, membrana plasmática, pared celular, Cloroplasto, vacuola, mitocondria, peroxisoma, citoplasma, vesículas de Golgi, aparato de Golgi, leucoplasto, retículo endoplasmático rugoso, núcleo, ribosomas, retículo endoplasmático liso, vesículas membranosas, citoesqueleto filamentoso.')
         figcaption Nota. https://cienciaybiologia.com/wp-content/uploads/2020/09/celula-vegetal.png
 
     Separador
@@ -149,7 +153,7 @@
 
         .row.justify-content-center.align-items-center
           .col-11.col-lg-5.mb-4.mb-md-0
-            h4.mb-4 TEJIDO PAREQUIMÁTICO
+            h4.mb-4 TEJIDO PARENQUIMÁTICO
             p Tejido parenquimático, es abundante y en él tienen lugar actividades como la fotosíntesis,  la respiración, el almacenamiento de reservas, la secreción y la excreción. Se agrupa en parénquima clorofílico (fotosintético) y parénquima de reserva. Se encuentra en la médula, el córtex de tallos y raíces, pulpa de frutos, endospermo o albumen de las semillas, en el mesófilo de las hojas y se asocian al xilema y el floema.             
           .col-11.col-lg-5.mt-0.mt-md-4
             figure
@@ -205,10 +209,10 @@
     .row.justify-content-center.mb-4
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 8. 
+          h5 Figura 9. 
           span <em>Estructura del cuerpo de las plantas Dicotiledónea y Monocotiledónea</em>    
         figure(data-aos="fade-down-right")
-          img.img-t.m-auto(src='@/assets/curso/tema3/img14.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema3/img14.png', alt='Estructura del cuerpo de las plantas Dicotiledónea y Monocotiledónea, muestra el sistema caulinar, sistema radical y el entrenudo.')
         figcaption.ms-2 Nota. Tomado de Anatomía y morfología vegetal (2019).
 
     .bg_23.p-5.mb-4
@@ -216,10 +220,10 @@
       .row.justify-content-center
         .col-lg-10
           .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-            h5 Figura 9. 
+            h5 Figura 10. 
             span <em>La raíz</em>    
           figure.mb-4(data-aos="fade-down-right")
-            img.img-t.m-auto(src='@/assets/curso/tema3/img15.svg', alt='')
+            img.img-t.m-auto(src='@/assets/curso/tema3/img15.svg', alt='Organización y estructura de la raíz, órgano generalmente subterráneo, que brinda anclaje y absorción de nutrientes. estructura externa y estructura interna.')
           figcaption.mx-lg-5 Nota. Tomado de Anatomía y morfología vegetal (2019).
 
     p.mb-5 Las raíces se clasifican según su origen en: raíz principal, raíz secundaría y raíz adventista. A continuación en la figura.
@@ -227,12 +231,12 @@
     .row.justify-content-center.mb-4
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 10. 
+          h5 Figura 11. 
           span <em>Raíces según el origen: principales, secundarias y raíces adventicias</em>    
         .row.justify-content-center.mb-5
           .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
             figure
-            img.img-t.m-auto(src='@/assets/curso/tema3/img16.png', alt='')
+            img.img-t.m-auto(src='@/assets/curso/tema3/img16.png', alt='Raíces según el origen: principales, secundarias y raíces adventicias.')
             .bg_color3.p-3
               p.m-0.text-center.text-bold Raíz principal 
           .col-lg-4.mb-4.mb-lg-0(data-aos="fade-up")
@@ -253,10 +257,10 @@
     .row.justify-content-center.mb-4
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 11. 
+          h5 Figura 12. 
           span <em>Tipos de raíces según la morfología: A. pivotante (dicotiledónea) y B. fibrosa (monocotiledónea)</em>    
         figure(data-aos="fade-down-right")
-          img.img-t.m-auto(src='@/assets/curso/tema3/img19.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema3/img19.png', alt='Tipos de raíces según la morfología: A. pivotante (dicotiledónea) y B. fibrosa (monocotiledónea)')
         .row.justify-content-center.mt-4
           .col-lg-12
             figcaption Nota. Tomado de Anatomía y morfología vegetal (2019).
@@ -264,7 +268,7 @@
     .row.justify-content-center.mb-4
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 12. 
+          h5 Figura 13. 
           span <em>Raíces carnosas</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img20.png', alt='')
@@ -275,7 +279,7 @@
     .row.justify-content-center.mb-4
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 13. 
+          h5 Figura 14. 
           span <em>Raíces modificadas</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img21.png', alt='')
@@ -356,7 +360,7 @@
     .row.justify-content-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema3/img32.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema3/img32.png', alt='Clases de tallos, tallos subterráneos, tallos acuáticos, tallos terrestres.')
         .bg_color4.p-3
           p.m-0.text-center.text-bold Tallos subterráneos
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-up")
@@ -440,10 +444,10 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 14. 
+          h5 Figura 15. 
           span <em>Tipos de hoja según la forma</em>    
         figure(data-aos="fade-down-right")
-          img.img-t.m-auto(src='@/assets/curso/tema3/img39.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema3/img39.png', alt='Tipos de hojas, según la forma: acicular, lineal, lanceolada, reniforme, escuamiforme, espatulada, elíptica, ovada, obovada, cordada.')
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img40.png', alt='')
         .row.justify-content-center.mt-4
@@ -453,10 +457,10 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 15. 
+          h5 Figura 16. 
           span <em>Tipos de hoja según el peciolo</em>    
         figure(data-aos="fade-down-right")
-          img.img-t.m-auto(src='@/assets/curso/tema3/img46.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema3/img46.png', alt='Tipos de hoja según el peciolo: peciolada, subpeciolada, sésil, envainada, alada.')
         .row.justify-content-center.mt-4
           .col-lg-12
             figcaption.mx-2 Nota. Tomado de Anatomía y morfología vegetal (2019).
@@ -464,7 +468,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 16. 
+          h5 Figura 17. 
           span <em>Tipos de hoja según la complejidad</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img41.png', alt='')
@@ -498,10 +502,10 @@
       .row.justify-content-center.mb-4
         .col-lg-10
           .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-            h5 Figura 17. 
+            h5 Figura 18. 
             span <em>Estructura de una flor típica</em>    
           figure(data-aos="fade-down-right")
-            img.img-t.m-auto(src='@/assets/curso/tema3/img44.png', alt='')
+            img.img-t.m-auto(src='@/assets/curso/tema3/img44.png', alt='Estructura de una flor típica: pétalos, estigma, estambres, corola, calíz, sépalos, calicúlo, pendúnculo.')
 
     .row.mb-4
       .col-auto
@@ -514,7 +518,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 18. 
+          h5 Figura 19. 
           span <em>Inflorescencia racimoides</em>    
         figure(data-aos="fade-down-right")
           img.img-t.m-auto(src='@/assets/curso/tema3/img45.png', alt='')
@@ -542,10 +546,10 @@
     .row.justify-content-center.mb-5.mt-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 19. 
+          h5 Figura 20. 
           span <em>Frutos simples carnosos: bayas</em>    
         figure(data-aos="fade-down-right")
-          img.img-t.m-auto(src='@/assets/curso/tema3/img47.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema3/img47.png', alt='Frutos simples carnosos: bayas: zimbaulo, ají, tomate, babaco, tómate de árbol, aguacate, granadilla, naranjilla, toronche, cacao, tumbo y papaya.')
         .row.justify-content-center
           .col-lg-12
             figcaption.mx-3 Nota. Tomado de Anatomía y morfología vegetal (2019).
@@ -553,10 +557,10 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 20. 
+          h5 Figura 21. 
           span <em>Frutos simples carnosos: hesperidios, pepónides, pomo</em>    
         figure(data-aos="fade-down-right")
-          img.img-t.m-auto(src='@/assets/curso/tema3/img48.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema3/img48.png', alt='Frutos simples carnosos: hesperidios, pepónides, pomo: zapallo, calabaza, sandia, manzana, pera, membrillo, níspero, durazno, capulles, reina claudia, mango.')
         .row.justify-content-center
           .col-lg-12
             figcaption.mx-3 Nota. Tomado de Anatomía y morfología vegetal (2019). 
@@ -582,10 +586,10 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 21. 
+          h5 Figura 22. 
           span <em>Estructura externa e interna de una semilla de frijol</em>    
         figure(data-aos="fade-down-right")
-          img.img-t.m-auto(src='@/assets/curso/tema3/img50.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema3/img50.png', alt='Estructura externa e interna de una semilla de frijol, externa: testa e hilo. Interna: Plúmula, radícula y embrión.')
         .row.justify-content-center
           .col-lg-12
             figcaption.mx-3.mt-4 Nota. Tomado de Anatomía y morfología vegetal (2019).
@@ -593,10 +597,10 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 22. 
+          h5 Figura 23. 
           span <em>Semillas dicotiledóneas</em>    
         figure(data-aos="fade-down-right")
-          img.img-t.m-auto(src='@/assets/curso/tema3/img51.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema3/img51.png', alt='Semillas dicotiledóneas: pachaco, guararo, teca, eucalipto, arabisco, charán blanco, robimia pseudoácasia, leucaena, molle.')
         .row.justify-content-center
           .col-lg-11
             figcaption.me-1 Nota. Tomado de Anatomía y morfología vegetal (2019).
@@ -607,20 +611,20 @@
     .row.justify-content-center.mb-5.mt-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 23. 
+          h5 Figura 24. 
           span <em>Estructura externa e interna del fruto-semilla del maíz</em>    
         figure(data-aos="fade-down-right")
-          img.img-t.m-auto(src='@/assets/curso/tema3/img52.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema3/img52.png', alt='Estructura externa e interna del fruto-semilla del maíz: externa, perocarpio, cubierta y pilorriza. Interna: Endosperma, celeóptilo, plúmula, embrión, radícula, coleorriza, embrión en desarrollo, cotiledón.')
         .row.justify-content-center
           .col-lg-12
             figcaption.mx-3 Nota. Tomado de Anatomía y morfología vegetal (2019).
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 24. 
+          h5 Figura 25. 
           span <em>Semillas monocotiledóneas</em>    
         figure(data-aos="fade-down-right")
-          img.img-t.m-auto(src='@/assets/curso/tema3/img53.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema3/img53.png', alt='Semillas monocotiledóneas: arveja, frijol, soya, linaza, papaya, cacao, melón, zapote, limón, naranja, uva, tipo de ají.')
         .row.justify-content-center
           .col-lg-12
             figcaption.mx-4 Nota. Tomado de Anatomía y morfología vegetal (2019).
